@@ -1,0 +1,11 @@
+C:\Users\sergi\Downloads\Progra avanzada\AP\AP.Core\bin\Debug\AP.Core.dll
+C:\Users\sergi\Downloads\Progra avanzada\AP\AP.Core\bin\Debug\AP.Core.pdb
+C:\Users\sergi\Downloads\Progra avanzada\AP\AP.Core\bin\Debug\AP.Data.dll
+C:\Users\sergi\Downloads\Progra avanzada\AP\AP.Core\bin\Debug\AP.Models.dll
+C:\Users\sergi\Downloads\Progra avanzada\AP\AP.Core\bin\Debug\AP.Data.pdb
+C:\Users\sergi\Downloads\Progra avanzada\AP\AP.Core\bin\Debug\AP.Models.pdb
+C:\Users\sergi\Downloads\Progra avanzada\AP\AP.Core\obj\Debug\AP.Core.csproj.AssemblyReference.cache
+C:\Users\sergi\Downloads\Progra avanzada\AP\AP.Core\obj\Debug\AP.Core.csproj.CoreCompileInputs.cache
+C:\Users\sergi\Downloads\Progra avanzada\AP\AP.Core\obj\Debug\AP.Core.csproj.Up2Date
+C:\Users\sergi\Downloads\Progra avanzada\AP\AP.Core\obj\Debug\AP.Core.dll
+C:\Users\sergi\Downloads\Progra avanzada\AP\AP.Core\obj\Debug\AP.Core.pdb
