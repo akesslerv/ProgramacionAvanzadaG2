@@ -36,8 +36,9 @@ La aplicación implementa una arquitectura por capas para garantizar una adecuad
 
 El sistema está desarrollado siguiendo una arquitectura por capas que permite una clara separación de responsabilidades.
 
-# Diagrama de Arquitectura
+### Diagrama de Arquitectura
 
+```text
 ┌──────────────────────────┐
 │         AP.MVC           │
 │  Presentación / UI       │
@@ -71,8 +72,7 @@ El sistema está desarrollado siguiendo una arquitectura por capas que permite u
 │       SQL Server         │
 │      Base de Datos       │
 └──────────────────────────┘
-
----
+```
 
 # Descripción de las Capas
 
@@ -140,9 +140,9 @@ Responsabilidades:
 
 ---
 
-# Estructura del Proyecto
+## Estructura del Proyecto
 
-
+```text
 AP
 │
 ├── AP.MVC
@@ -153,15 +153,16 @@ AP
 │   └── Configuración Web
 │
 ├── AP.Core
-│   └── Lógica de negocio
+│   └── Lógica de Negocio
 │
 ├── AP.Data
-│   └── Acceso a datos
+│   └── Acceso a Datos
 │
 ├── AP.Models
-│   └── Entidades y modelos
+│   └── Entidades y Modelos
 │
 └── AP.sln
+```
 
 
 ---
