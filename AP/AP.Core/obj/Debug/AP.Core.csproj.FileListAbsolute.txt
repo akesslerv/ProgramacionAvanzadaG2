@@ -9,3 +9,14 @@ C:\Users\sergi\Downloads\Progra avanzada\AP\AP.Core\obj\Debug\AP.Core.csproj.Cor
 C:\Users\sergi\Downloads\Progra avanzada\AP\AP.Core\obj\Debug\AP.Core.csproj.Up2Date
 C:\Users\sergi\Downloads\Progra avanzada\AP\AP.Core\obj\Debug\AP.Core.dll
 C:\Users\sergi\Downloads\Progra avanzada\AP\AP.Core\obj\Debug\AP.Core.pdb
+D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\AP\AP.Core\bin\Debug\AP.Core.dll
+D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\AP\AP.Core\bin\Debug\AP.Core.pdb
+D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\AP\AP.Core\bin\Debug\AP.Data.dll
+D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\AP\AP.Core\bin\Debug\AP.Models.dll
+D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\AP\AP.Core\bin\Debug\AP.Data.pdb
+D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\AP\AP.Core\bin\Debug\AP.Models.pdb
+D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\AP\AP.Core\obj\Debug\AP.Core.csproj.AssemblyReference.cache
+D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\AP\AP.Core\obj\Debug\AP.Core.csproj.CoreCompileInputs.cache
+D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\AP\AP.Core\obj\Debug\AP.Core.csproj.Up2Date
+D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\AP\AP.Core\obj\Debug\AP.Core.dll
+D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\AP\AP.Core\obj\Debug\AP.Core.pdb
