@@ -1,0 +1,140 @@
+﻿@{
+    ViewBag.Title = "Ranking";
+}
+
+<style>
+
+    .ranking-card {
+        max-width: 800px;
+        margin: auto;
+        background: white;
+        border-radius: 25px;
+        padding: 40px;
+        box-shadow: 0 15px 35px rgba(0,0,0,.25);
+    }
+
+    .title {
+        text-align: center;
+        font-size: 42px;
+        font-weight: bold;
+        color: #1e3a8a;
+        margin-bottom: 35px;
+    }
+
+    table {
+        width: 100%;
+        border-collapse: collapse;
+    }
+
+    th {
+        background: #2563eb;
+        color: white;
+        padding: 15px;
+        text-align: center;
+        font-size: 20px;
+    }
+
+    td {
+        padding: 18px;
+        text-align: center;
+        font-size: 20px;
+        border-bottom: 1px solid #ddd;
+    }
+
+    tr:hover {
+        background: #eef4ff;
+    }
+
+    .back {
+        margin-top: 35px;
+        text-align: center;
+    }
+
+    .btn-home {
+        background: #2563eb;
+        color: white;
+        padding: 15px 35px;
+        border-radius: 15px;
+        text-decoration: none;
+        font-size: 20px;
+        transition: .3s;
+    }
+
+        .btn-home:hover {
+            background: #1d4ed8;
+            color: white;
+        }
+</style>
+
+<div class="ranking-card">
+
+    <div class="title">
+
+        🏆 Ranking de Jugadores
+
+    </div>
+
+    <table>
+
+        <tr>
+
+            <th>Posición</th>
+            <th>Jugador</th>
+            <th>Puntos</th>
+
+        </tr>
+
+        <tr>
+
+            <td>🥇</td>
+            <td>Sergio</td>
+            <td>320</td>
+
+        </tr>
+
+        <tr>
+
+            <td>🥈</td>
+            <td>María</td>
+            <td>280</td>
+
+        </tr>
+
+        <tr>
+
+            <td>🥉</td>
+            <td>Carlos</td>
+            <td>250</td>
+
+        </tr>
+
+        <tr>
+
+            <td>4</td>
+            <td>Ana</td>
+            <td>210</td>
+
+        </tr>
+
+        <tr>
+
+            <td>5</td>
+            <td>Luis</td>
+            <td>180</td>
+
+        </tr>
+
+    </table>
+
+    <div class="back">
+
+        @Html.ActionLink(
+                 "← Volver al Inicio",
+                 "Index",
+                 "Home",
+                 null,
+                 new { @class = "btn-home" })
+
+    </div>
+
+</div>

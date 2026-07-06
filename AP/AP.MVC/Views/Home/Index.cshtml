@@ -1,33 +1,169 @@
 ﻿@{
-    ViewBag.Title = "Home Page";
+    ViewBag.Title = "Inicio";
 }
 
-<main>
-    <section class="row" aria-labelledby="aspnetTitle">
-        <h1 id="title">ASP.NET</h1>
-        <p class="lead">ASP.NET is a free web framework for building great Web sites and Web applications using HTML, CSS and JavaScript.</p>
-        <p><a href="https://asp.net" class="btn btn-primary btn-md">Learn more &raquo;</a></p>
-    </section>
+<style>
 
-    <div class="row">
-        <section class="col-md-4" aria-labelledby="gettingStartedTitle">
-            <h2 id="gettingStartedTitle">Getting started</h2>
-            <p>
-                ASP.NET MVC gives you a powerful, patterns-based way to build dynamic websites that
-                enables a clean separation of concerns and gives you full control over markup
-                for enjoyable, agile development.
-            </p>
-            <p><a class="btn btn-outline-dark" href="https://go.microsoft.com/fwlink/?LinkId=301865">Learn more &raquo;</a></p>
-        </section>
-        <section class="col-md-4" aria-labelledby="librariesTitle">
-            <h2 id="librariesTitle">Get more libraries</h2>
-            <p>NuGet is a free Visual Studio extension that makes it easy to add, remove, and update libraries and tools in Visual Studio projects.</p>
-            <p><a class="btn btn-outline-dark" href="https://go.microsoft.com/fwlink/?LinkId=301866">Learn more &raquo;</a></p>
-        </section>
-        <section class="col-md-4" aria-labelledby="hostingTitle">
-            <h2 id="hostingTitle">Web Hosting</h2>
-            <p>You can easily find a web hosting company that offers the right mix of features and price for your applications.</p>
-            <p><a class="btn btn-outline-dark" href="https://go.microsoft.com/fwlink/?LinkId=301867">Learn more &raquo;</a></p>
-        </section>
+    .hero {
+        text-align: center;
+        color: white;
+        margin-top: 40px;
+    }
+
+        .hero h1 {
+            font-size: 60px;
+            font-weight: bold;
+            margin-bottom: 15px;
+        }
+
+        .hero p {
+            font-size: 22px;
+            color: #dbeafe;
+            margin-bottom: 40px;
+        }
+
+    .menu-card {
+        border-radius: 25px;
+        padding: 30px;
+        margin-bottom: 30px;
+        text-align: center;
+        transition: .35s;
+        box-shadow: 0 10px 20px rgba(0,0,0,.25);
+        cursor: pointer;
+    }
+
+        .menu-card:hover {
+            transform: translateY(-10px) scale(1.02);
+            box-shadow: 0 18px 35px rgba(0,0,0,.45);
+        }
+
+    .play {
+        background: linear-gradient(135deg,#22c55e,#16a34a);
+    }
+
+    .puzzle {
+        background: linear-gradient(135deg,#facc15,#f59e0b);
+    }
+
+    .ranking {
+        background: linear-gradient(135deg,#fb923c,#ea580c);
+    }
+
+    .profile {
+        background: linear-gradient(135deg,#8b5cf6,#6d28d9);
+    }
+
+    .menu-card a {
+        color: white !important;
+        text-decoration: none;
+        font-size: 30px;
+        font-weight: bold;
+    }
+
+    .icon {
+        font-size: 60px;
+        margin-bottom: 20px;
+    }
+</style>
+
+<div class="hero">
+
+    <div class="icon">
+        🧠
     </div>
-</main>
+
+    <h1>Math Puzzle</h1>
+
+    <p>
+        Pon a prueba tu lógica matemática y supera todos los desafíos.
+    </p>
+
+</div>
+
+<div class="row mt-5">
+
+    <!-- JUGAR -->
+    <div class="col-md-6">
+
+        <a href="@Url.Action("Index", "Game")"
+           style="text-decoration:none;">
+
+            <div class="menu-card play">
+
+                <div class="icon">🎮</div>
+
+                <span style="color:white;
+                         font-size:30px;
+                         font-weight:bold;">
+                    Jugar
+                </span>
+
+            </div>
+
+        </a>
+
+    </div>
+
+    <!-- ADMINISTRAR ACERTIJOS -->
+    <div class="col-md-6">
+
+        <a href="@Url.Action("Index","Puzzle")"
+           style="text-decoration:none;">
+
+            <div class="menu-card puzzle">
+
+                <div class="icon">🧩</div>
+
+                <span style="color:white;
+                         font-size:30px;
+                         font-weight:bold;">
+
+                    Administrar Acertijos
+
+                </span>
+
+            </div>
+
+        </a>
+
+    </div>
+
+    <!-- RANKING -->
+    <div class="col-md-6">
+
+        <a href="@Url.Action("Index", "Ranking")"
+           style="text-decoration:none;">
+
+            <div class="menu-card ranking">
+
+                <div class="icon">🏆</div>
+
+                <span style="color:white;
+                         font-size:30px;
+                         font-weight:bold;">
+                    Ranking
+                </span>
+
+            </div>
+
+        </a>
+
+    </div>
+
+    <!-- PERFIL -->
+    <div class="col-md-6">
+
+        <div class="menu-card profile">
+
+            <div class="icon">👤</div>
+
+            <a href="#">
+                Perfil
+            </a>
+
+        </div>
+
+    </div>
+
+</div>>
+</div>>

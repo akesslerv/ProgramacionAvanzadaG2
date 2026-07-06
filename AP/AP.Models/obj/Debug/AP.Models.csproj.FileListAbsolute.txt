@@ -10,3 +10,9 @@ D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\AP\AP.
 D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\AP\AP.Models\obj\Debug\AP.Models.csproj.CoreCompileInputs.cache
 D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\AP\AP.Models\obj\Debug\AP.Models.dll
 D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\AP\AP.Models\obj\Debug\AP.Models.pdb
+C:\Users\sergi\OneDrive\Documentos\GitHub\ProgramacionAvanzadaG2\AP\AP.Models\bin\Debug\AP.Models.dll
+C:\Users\sergi\OneDrive\Documentos\GitHub\ProgramacionAvanzadaG2\AP\AP.Models\bin\Debug\AP.Models.pdb
+C:\Users\sergi\OneDrive\Documentos\GitHub\ProgramacionAvanzadaG2\AP\AP.Models\obj\Debug\AP.Models.csproj.AssemblyReference.cache
+C:\Users\sergi\OneDrive\Documentos\GitHub\ProgramacionAvanzadaG2\AP\AP.Models\obj\Debug\AP.Models.csproj.CoreCompileInputs.cache
+C:\Users\sergi\OneDrive\Documentos\GitHub\ProgramacionAvanzadaG2\AP\AP.Models\obj\Debug\AP.Models.dll
+C:\Users\sergi\OneDrive\Documentos\GitHub\ProgramacionAvanzadaG2\AP\AP.Models\obj\Debug\AP.Models.pdb

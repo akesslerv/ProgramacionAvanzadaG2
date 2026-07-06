@@ -1,0 +1,178 @@
+﻿@model AP.Models.Entities.GameState
+
+@{
+    ViewBag.Title = "Jugar";
+}
+
+<style>
+
+    @@keyframes aparecer {
+        from {
+            opacity: 0;
+            transform: translateY(30px);
+        }
+
+        to {
+            opacity: 1;
+            transform: translateY(0);
+        }
+    }
+
+    .game-card {
+        max-width: 700px;
+        margin: auto;
+        background: white;
+        border-radius: 25px;
+        padding: 40px;
+        box-shadow: 0 15px 40px rgba(0,0,0,.30);
+        animation: aparecer .5s ease;
+    }
+
+    .game-header {
+        display: flex;
+        justify-content: space-between;
+        margin-bottom: 20px;
+        font-size: 22px;
+        font-weight: bold;
+    }
+
+    .question-box {
+        background: #eef4ff;
+        border-radius: 20px;
+        padding: 25px;
+        margin: 30px 0;
+    }
+
+    .question {
+        text-align: center;
+        font-size: 38px;
+        font-weight: bold;
+        color: #1e3a8a;
+    }
+
+    .answer {
+        display: block;
+        width: 100%;
+        border: none;
+        border-radius: 15px;
+        padding: 22px;
+        font-size: 22px;
+        margin-bottom: 20px;
+        color: white;
+        cursor: pointer;
+        transition: all .25s ease;
+    }
+
+        .answer:hover {
+            transform: translateY(-5px) scale(1.03);
+            box-shadow: 0 10px 25px rgba(0,0,0,.35);
+        }
+
+    .blue {
+        background: #2563eb;
+    }
+
+    .green {
+        background: #16a34a;
+    }
+
+    .yellow {
+        background: #f59e0b;
+    }
+
+    .purple {
+        background: #8b5cf6;
+    }
+</style>
+
+<div class="game-card">
+
+    <!-- Vidas y puntos -->
+    <div class="game-header">
+
+        <div>
+            @Model.Hearts
+        </div>
+
+        <div>
+            ⭐ @Model.Score
+        </div>
+
+    </div>
+
+    <!-- Nivel y tiempo -->
+    <div class="game-header">
+
+        <div>
+            Nivel @Model.Level
+        </div>
+
+        <div>
+            ⏱ 30 s
+        </div>
+
+    </div>
+
+    <!-- Barra de progreso -->
+    <div class="progress mb-4">
+
+        <div class="progress-bar bg-success"
+             role="progressbar"
+             style="width:20%;"
+             aria-valuenow="20"
+             aria-valuemin="0"
+             aria-valuemax="100">
+        </div>
+
+    </div>
+
+    <!-- Pregunta -->
+    <div class="question-box">
+
+        <div class="question">
+
+            @Model.CurrentQuestion.Question
+
+        </div>
+
+    </div>
+
+    <!-- Respuestas -->
+
+    @using (Html.BeginForm("Answer", "Game", FormMethod.Post))
+    {
+        <button type="submit"
+                name="selectedAnswer"
+                value="@Model.CurrentQuestion.OptionA"
+                class="answer blue">
+            @Model.CurrentQuestion.OptionA
+        </button>
+
+        <button type="submit"
+                name="selectedAnswer"
+                value="@Model.CurrentQuestion.OptionB"
+                class="answer green">
+            @Model.CurrentQuestion.OptionB
+        </button>
+
+        <button type="submit"
+                name="selectedAnswer"
+                value="@Model.CurrentQuestion.OptionC"
+                class="answer yellow">
+            @Model.CurrentQuestion.OptionC
+        </button>
+
+        <button type="submit"
+                name="selectedAnswer"
+                value="@Model.CurrentQuestion.OptionD"
+                class="answer purple">
+            @Model.CurrentQuestion.OptionD
+        </button>
+    }
+
+</div>
+
+<script>
+
+    const correctAnswer = "@Model.CurrentQuestion.CorrectAnswer";
+</script>

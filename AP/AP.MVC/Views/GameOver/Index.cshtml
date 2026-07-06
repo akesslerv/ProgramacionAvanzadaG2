@@ -1,0 +1,136 @@
+﻿@{
+    ViewBag.Title = "Game Over";
+}
+
+<style>
+
+    body {
+        background: linear-gradient(135deg,#0f172a,#1e293b);
+    }
+
+    .gameover-card {
+        max-width: 700px;
+        margin: 70px auto;
+        background: white;
+        border-radius: 30px;
+        padding: 50px;
+        text-align: center;
+        box-shadow: 0 20px 40px rgba(0,0,0,.45);
+    }
+
+    .skull {
+        font-size: 90px;
+        animation: pulse 1.8s infinite;
+    }
+
+    @@keyframes pulse {
+
+        0% {
+            transform: scale(1);
+        }
+
+        50% {
+            transform: scale(1.12);
+        }
+
+        100% {
+            transform: scale(1);
+        }
+    }
+
+    .title {
+        font-size: 55px;
+        font-weight: bold;
+        color: #dc2626;
+        margin-top: 15px;
+    }
+
+    .subtitle {
+        font-size: 22px;
+        color: #555;
+        margin: 25px 0;
+    }
+
+    .score {
+        font-size: 35px;
+        color: #2563eb;
+        font-weight: bold;
+        margin-bottom: 35px;
+    }
+
+    .buttons {
+        display: flex;
+        justify-content: center;
+        gap: 20px;
+    }
+
+    .btn-custom {
+        padding: 18px 35px;
+        border-radius: 15px;
+        text-decoration: none;
+        color: white;
+        font-size: 20px;
+        transition: .3s;
+    }
+
+    .play {
+        background: #16a34a;
+    }
+
+    .home {
+        background: #2563eb;
+    }
+
+    .btn-custom:hover {
+        transform: translateY(-5px);
+        color: white;
+    }
+</style>
+
+<div class="gameover-card">
+
+    <div class="skull">
+
+        💀
+
+    </div>
+
+    <div class="title">
+
+        GAME OVER
+
+    </div>
+
+    <div class="subtitle">
+
+        No te rindas.<br />
+
+        Cada error es una oportunidad para aprender.
+
+    </div>
+
+    <div class="score">
+
+        ⭐ Puntuación Final: 180
+
+    </div>
+
+    <div class="buttons">
+
+        @Html.ActionLink(
+              "🔄 Jugar de nuevo",
+              "NewGame",
+              "Game",
+              null,
+              new { @class = "btn-custom play" })
+
+        @Html.ActionLink(
+                      "🏠 Inicio",
+                      "Index",
+                      "Home",
+                      null,
+                      new { @class = "btn-custom home" })
+
+    </div>
+
+</div>

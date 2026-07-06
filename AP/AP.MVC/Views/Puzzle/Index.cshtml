@@ -1,0 +1,70 @@
+﻿@model List<AP.Models.Entities.Puzzle>
+
+@{
+    ViewBag.Title = "Math Puzzle";
+}
+
+<div class="container mt-5">
+
+    <div class="card shadow-lg border-0">
+
+        <div class="card-header bg-primary text-white text-center">
+
+            <h2>🧠 Math Puzzle</h2>
+
+            <p class="mb-0">
+                Administración de Acertijos
+            </p>
+
+        </div>
+
+        <div class="card-body">
+
+            <div class="text-end mb-4">
+
+                <a href="#" class="btn btn-success btn-lg">
+                    ➕ Nuevo Acertijo
+                </a>
+
+            </div>
+
+            @foreach (var puzzle in Model)
+            {
+                <div class="card mb-3 shadow-sm">
+
+                    <div class="card-body">
+
+                        <h4>@puzzle.Question</h4>
+
+                        <hr />
+
+                        <p>
+                            <strong>Respuesta:</strong> @puzzle.Answer
+                        </p>
+
+                        <p>
+                            <strong>Dificultad:</strong> @puzzle.Difficulty
+                        </p>
+
+                        <p>
+                            <strong>Puntos:</strong> @puzzle.Points
+                        </p>
+
+                        <a href="#" class="btn btn-warning">
+                            ✏ Editar
+                        </a>
+
+                        <a href="#" class="btn btn-danger">
+                            🗑 Eliminar
+                        </a>
+
+                    </div>
+
+                </div>
+            }
+
+        </div>
+
+    </div>
+
+</div>

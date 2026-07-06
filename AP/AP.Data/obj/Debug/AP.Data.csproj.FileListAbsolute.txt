@@ -16,3 +16,12 @@ D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\AP\AP.
 D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\AP\AP.Data\obj\Debug\AP.Data.csproj.Up2Date
 D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\AP\AP.Data\obj\Debug\AP.Data.dll
 D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\AP\AP.Data\obj\Debug\AP.Data.pdb
+C:\Users\sergi\OneDrive\Documentos\GitHub\ProgramacionAvanzadaG2\AP\AP.Data\bin\Debug\AP.Data.dll
+C:\Users\sergi\OneDrive\Documentos\GitHub\ProgramacionAvanzadaG2\AP\AP.Data\bin\Debug\AP.Data.pdb
+C:\Users\sergi\OneDrive\Documentos\GitHub\ProgramacionAvanzadaG2\AP\AP.Data\bin\Debug\AP.Models.dll
+C:\Users\sergi\OneDrive\Documentos\GitHub\ProgramacionAvanzadaG2\AP\AP.Data\bin\Debug\AP.Models.pdb
+C:\Users\sergi\OneDrive\Documentos\GitHub\ProgramacionAvanzadaG2\AP\AP.Data\obj\Debug\AP.Data.csproj.AssemblyReference.cache
+C:\Users\sergi\OneDrive\Documentos\GitHub\ProgramacionAvanzadaG2\AP\AP.Data\obj\Debug\AP.Data.csproj.CoreCompileInputs.cache
+C:\Users\sergi\OneDrive\Documentos\GitHub\ProgramacionAvanzadaG2\AP\AP.Data\obj\Debug\AP.Data.csproj.Up2Date
+C:\Users\sergi\OneDrive\Documentos\GitHub\ProgramacionAvanzadaG2\AP\AP.Data\obj\Debug\AP.Data.dll
+C:\Users\sergi\OneDrive\Documentos\GitHub\ProgramacionAvanzadaG2\AP\AP.Data\obj\Debug\AP.Data.pdb
