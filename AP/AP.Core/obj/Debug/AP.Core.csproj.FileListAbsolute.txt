@@ -58,3 +58,6 @@ C:\Users\sergi\OneDrive\Documentos\GitHub\ProgramacionAvanzadaG2\AP\AP.Core\bin\
 C:\Users\sergi\OneDrive\Documentos\GitHub\ProgramacionAvanzadaG2\AP\AP.Core\bin\Debug\tr\FSharp.Core.resources.dll
 C:\Users\sergi\OneDrive\Documentos\GitHub\ProgramacionAvanzadaG2\AP\AP.Core\bin\Debug\zh-Hans\FSharp.Core.resources.dll
 C:\Users\sergi\OneDrive\Documentos\GitHub\ProgramacionAvanzadaG2\AP\AP.Core\bin\Debug\zh-Hant\FSharp.Core.resources.dll
+C:\Users\sergi\OneDrive\Documentos\GitHub\ProgramacionAvanzadaG2\AP\AP.Core\bin\Debug\EntityFramework.dll
+C:\Users\sergi\OneDrive\Documentos\GitHub\ProgramacionAvanzadaG2\AP\AP.Core\bin\Debug\AP.Data.dll.config
+C:\Users\sergi\OneDrive\Documentos\GitHub\ProgramacionAvanzadaG2\AP\AP.Core\bin\Debug\EntityFramework.xml

@@ -25,3 +25,8 @@ C:\Users\sergi\OneDrive\Documentos\GitHub\ProgramacionAvanzadaG2\AP\AP.Data\obj\
 C:\Users\sergi\OneDrive\Documentos\GitHub\ProgramacionAvanzadaG2\AP\AP.Data\obj\Debug\AP.Data.csproj.Up2Date
 C:\Users\sergi\OneDrive\Documentos\GitHub\ProgramacionAvanzadaG2\AP\AP.Data\obj\Debug\AP.Data.dll
 C:\Users\sergi\OneDrive\Documentos\GitHub\ProgramacionAvanzadaG2\AP\AP.Data\obj\Debug\AP.Data.pdb
+C:\Users\sergi\OneDrive\Documentos\GitHub\ProgramacionAvanzadaG2\AP\AP.Data\bin\Debug\AP.Data.dll.config
+C:\Users\sergi\OneDrive\Documentos\GitHub\ProgramacionAvanzadaG2\AP\AP.Data\bin\Debug\EntityFramework.dll
+C:\Users\sergi\OneDrive\Documentos\GitHub\ProgramacionAvanzadaG2\AP\AP.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\sergi\OneDrive\Documentos\GitHub\ProgramacionAvanzadaG2\AP\AP.Data\bin\Debug\EntityFramework.xml
+C:\Users\sergi\OneDrive\Documentos\GitHub\ProgramacionAvanzadaG2\AP\AP.Data\bin\Debug\EntityFramework.SqlServer.xml

@@ -1,37 +1,64 @@
-﻿using System.Collections.Generic;
+﻿using AP.Models.Entities;
+using System;
+using System.Collections.Generic;
 using System.Linq;
-using AP.Models.Entities;
 
-namespace AP.MVC.Repositories
+namespace AP.Data.Repositories
 {
     public class UserRepository
     {
-        private static List<User> users = new List<User>
-        {
-            new User
-            {
-                Id = 1,
-                Username = "admin",
-                Password = "1234",
-                MustChangePassword = false
-            }
-        };
+        private readonly MathPuzzleEntities db = new MathPuzzleEntities();
 
         public User ValidateUser(string username, string password)
         {
-            return users.FirstOrDefault(u =>
-                u.Username == username && u.Password == password);
+            var entity = db.Users.FirstOrDefault(u => u.Email == username);
+
+            if (entity == null)
+                return null;
+
+            if (entity.Password != password)
+                return null;
+
+            return MapUser(entity);
         }
 
         public User GetByUsername(string username)
         {
-            return users.FirstOrDefault(u => u.Username == username);
+            var entity = db.Users.FirstOrDefault(u =>
+                u.Email == username);
+
+            if (entity == null)
+                return null;
+
+            return MapUser(entity);
         }
 
         public void UpdatePassword(User user, string newPassword)
         {
-            user.Password = newPassword;
-            user.MustChangePassword = false;
+            var entity = db.Users.FirstOrDefault(u =>
+                u.UserId == user.Id);
+
+            if (entity != null)
+            {
+                entity.Password = newPassword;
+                db.SaveChanges();
+
+                user.Password = newPassword;
+                user.MustChangePassword = false;
+            }
+        }
+
+        private User MapUser(Users entity)
+        {
+            return new User
+            {
+                Id = entity.UserId,
+                Username = entity.Email,
+                Name = entity.Name,
+                Password = entity.Password,
+                Role = entity.Role,
+                MustChangePassword = false
+            };
         }
     }
 }

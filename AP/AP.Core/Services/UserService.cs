@@ -1,5 +1,6 @@
-﻿using AP.Models.Entities;
-using AP.MVC.Repositories;
+﻿using AP.Data.Repositories;
+using AP.Models.Entities;
+using System;
 
 namespace AP.MVC.Services
 {
@@ -12,19 +13,19 @@ namespace AP.MVC.Services
             _repo = new UserRepository();
         }
 
-        // login
+        // Login
         public User ValidateLogin(string username, string password)
         {
             return _repo.ValidateUser(username, password);
         }
 
-        // existe user
+        // Existe usuario
         public bool UserExists(string username)
         {
             return _repo.GetByUsername(username) != null;
         }
 
-        // cambiar pwd
+        // Cambiar contraseña
         public bool ChangePassword(string username, string newPassword)
         {
             var user = _repo.GetByUsername(username);

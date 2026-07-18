@@ -1,0 +1,127 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="MathPuzzleModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Answers">
+    <Key>
+      <PropertyRef Name="AnswerId" />
+    </Key>
+    <Property Name="AnswerId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="UserId" Type="int" Nullable="false" />
+    <Property Name="RiddleId" Type="int" Nullable="false" />
+    <Property Name="UserAnswer" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="AnswerCheck" Type="bit" Nullable="false" />
+    <Property Name="AnswerDate" Type="datetime" />
+  </EntityType>
+  <EntityType Name="Levels">
+    <Key>
+      <PropertyRef Name="LevelId" />
+    </Key>
+    <Property Name="LevelId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="LevelName" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="DifficultyLevel" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Riddles">
+    <Key>
+      <PropertyRef Name="RiddleId" />
+    </Key>
+    <Property Name="RiddleId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="RiddleQuestion" Type="varchar" MaxLength="255" Nullable="false" />
+    <Property Name="OptionA" Type="varchar" MaxLength="100" Nullable="false" />
+    <Property Name="OptionB" Type="varchar" MaxLength="100" Nullable="false" />
+    <Property Name="OptionC" Type="varchar" MaxLength="100" Nullable="false" />
+    <Property Name="OptionD" Type="varchar" MaxLength="100" Nullable="false" />
+    <Property Name="RightAnswer" Type="varchar" MaxLength="100" Nullable="false" />
+    <Property Name="LevelId" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Scores">
+    <Key>
+      <PropertyRef Name="ScoreId" />
+    </Key>
+    <Property Name="ScoreId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="UserId" Type="int" Nullable="false" />
+    <Property Name="TotalScore" Type="int" Nullable="false" />
+    <Property Name="ReachedLevel" Type="int" Nullable="false" />
+    <Property Name="RemainingLives" Type="int" Nullable="false" />
+    <Property Name="PlayedDate" Type="datetime" />
+  </EntityType>
+  <EntityType Name="Users">
+    <Key>
+      <PropertyRef Name="UserId" />
+    </Key>
+    <Property Name="UserId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Name" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="Email" Type="varchar" MaxLength="100" Nullable="false" />
+    <Property Name="Password" Type="varchar" MaxLength="255" Nullable="false" />
+    <Property Name="Role" Type="varchar" MaxLength="20" Nullable="false" />
+  </EntityType>
+  <Association Name="FK_Answers_Riddles">
+    <End Role="Riddles" Type="Self.Riddles" Multiplicity="1" />
+    <End Role="Answers" Type="Self.Answers" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Riddles">
+        <PropertyRef Name="RiddleId" />
+      </Principal>
+      <Dependent Role="Answers">
+        <PropertyRef Name="RiddleId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Answers_Users">
+    <End Role="Users" Type="Self.Users" Multiplicity="1" />
+    <End Role="Answers" Type="Self.Answers" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Users">
+        <PropertyRef Name="UserId" />
+      </Principal>
+      <Dependent Role="Answers">
+        <PropertyRef Name="UserId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Riddles_Levels">
+    <End Role="Levels" Type="Self.Levels" Multiplicity="1" />
+    <End Role="Riddles" Type="Self.Riddles" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Levels">
+        <PropertyRef Name="LevelId" />
+      </Principal>
+      <Dependent Role="Riddles">
+        <PropertyRef Name="LevelId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Scores_Users">
+    <End Role="Users" Type="Self.Users" Multiplicity="1" />
+    <End Role="Scores" Type="Self.Scores" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Users">
+        <PropertyRef Name="UserId" />
+      </Principal>
+      <Dependent Role="Scores">
+        <PropertyRef Name="UserId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="MathPuzzleModelStoreContainer">
+    <EntitySet Name="Answers" EntityType="Self.Answers" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Levels" EntityType="Self.Levels" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Riddles" EntityType="Self.Riddles" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Scores" EntityType="Self.Scores" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Users" EntityType="Self.Users" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK_Answers_Riddles" Association="Self.FK_Answers_Riddles">
+      <End Role="Riddles" EntitySet="Riddles" />
+      <End Role="Answers" EntitySet="Answers" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Answers_Users" Association="Self.FK_Answers_Users">
+      <End Role="Users" EntitySet="Users" />
+      <End Role="Answers" EntitySet="Answers" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Riddles_Levels" Association="Self.FK_Riddles_Levels">
+      <End Role="Levels" EntitySet="Levels" />
+      <End Role="Riddles" EntitySet="Riddles" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Scores_Users" Association="Self.FK_Scores_Users">
+      <End Role="Users" EntitySet="Users" />
+      <End Role="Scores" EntitySet="Scores" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

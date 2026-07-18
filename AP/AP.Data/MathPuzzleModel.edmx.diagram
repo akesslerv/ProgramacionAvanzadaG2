@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="961bcbbf2a694ea28931e8da25603a04" Name="Diagram1" ZoomLevel="97">
+        <EntityTypeShape EntityType="MathPuzzleModel.Answers" Width="1.5" PointX="3" PointY="0.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="MathPuzzleModel.Levels" Width="1.5" PointX="1.5" PointY="9.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="MathPuzzleModel.Riddles" Width="1.5" PointX="0.75" PointY="5.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="MathPuzzleModel.Scores" Width="1.5" PointX="3" PointY="4" IsExpanded="true" />
+        <EntityTypeShape EntityType="MathPuzzleModel.Users" Width="1.5" PointX="0.75" PointY="0.625" IsExpanded="true" />
+        <AssociationConnector Association="MathPuzzleModel.FK_Answers_Riddles" ManuallyRouted="false" />
+        <AssociationConnector Association="MathPuzzleModel.FK_Answers_Users" ManuallyRouted="false" />
+        <AssociationConnector Association="MathPuzzleModel.FK_Riddles_Levels" ManuallyRouted="false" />
+        <AssociationConnector Association="MathPuzzleModel.FK_Scores_Users" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

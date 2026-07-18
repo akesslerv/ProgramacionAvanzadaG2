@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="MathPuzzleModelStoreContainer" CdmEntityContainer="MathPuzzleEntities">
+    <EntitySetMapping Name="Answers">
+      <EntityTypeMapping TypeName="MathPuzzleModel.Answers">
+        <MappingFragment StoreEntitySet="Answers">
+          <ScalarProperty Name="AnswerId" ColumnName="AnswerId" />
+          <ScalarProperty Name="UserId" ColumnName="UserId" />
+          <ScalarProperty Name="RiddleId" ColumnName="RiddleId" />
+          <ScalarProperty Name="UserAnswer" ColumnName="UserAnswer" />
+          <ScalarProperty Name="AnswerCheck" ColumnName="AnswerCheck" />
+          <ScalarProperty Name="AnswerDate" ColumnName="AnswerDate" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Levels">
+      <EntityTypeMapping TypeName="MathPuzzleModel.Levels">
+        <MappingFragment StoreEntitySet="Levels">
+          <ScalarProperty Name="LevelId" ColumnName="LevelId" />
+          <ScalarProperty Name="LevelName" ColumnName="LevelName" />
+          <ScalarProperty Name="DifficultyLevel" ColumnName="DifficultyLevel" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Riddles">
+      <EntityTypeMapping TypeName="MathPuzzleModel.Riddles">
+        <MappingFragment StoreEntitySet="Riddles">
+          <ScalarProperty Name="RiddleId" ColumnName="RiddleId" />
+          <ScalarProperty Name="RiddleQuestion" ColumnName="RiddleQuestion" />
+          <ScalarProperty Name="OptionA" ColumnName="OptionA" />
+          <ScalarProperty Name="OptionB" ColumnName="OptionB" />
+          <ScalarProperty Name="OptionC" ColumnName="OptionC" />
+          <ScalarProperty Name="OptionD" ColumnName="OptionD" />
+          <ScalarProperty Name="RightAnswer" ColumnName="RightAnswer" />
+          <ScalarProperty Name="LevelId" ColumnName="LevelId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Scores">
+      <EntityTypeMapping TypeName="MathPuzzleModel.Scores">
+        <MappingFragment StoreEntitySet="Scores">
+          <ScalarProperty Name="ScoreId" ColumnName="ScoreId" />
+          <ScalarProperty Name="UserId" ColumnName="UserId" />
+          <ScalarProperty Name="TotalScore" ColumnName="TotalScore" />
+          <ScalarProperty Name="ReachedLevel" ColumnName="ReachedLevel" />
+          <ScalarProperty Name="RemainingLives" ColumnName="RemainingLives" />
+          <ScalarProperty Name="PlayedDate" ColumnName="PlayedDate" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Users">
+      <EntityTypeMapping TypeName="MathPuzzleModel.Users">
+        <MappingFragment StoreEntitySet="Users">
+          <ScalarProperty Name="UserId" ColumnName="UserId" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="Email" ColumnName="Email" />
+          <ScalarProperty Name="Password" ColumnName="Password" />
+          <ScalarProperty Name="Role" ColumnName="Role" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

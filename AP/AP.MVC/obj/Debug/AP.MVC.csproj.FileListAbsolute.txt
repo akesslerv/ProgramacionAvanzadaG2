@@ -331,3 +331,8 @@ C:\Users\sergi\OneDrive\Documentos\GitHub\ProgramacionAvanzadaG2\AP\AP.MVC\obj\D
 C:\Users\sergi\OneDrive\Documentos\GitHub\ProgramacionAvanzadaG2\AP\AP.MVC\obj\Debug\AP.MVC.dll
 C:\Users\sergi\OneDrive\Documentos\GitHub\ProgramacionAvanzadaG2\AP\AP.MVC\obj\Debug\AP.MVC.pdb
 C:\Users\sergi\OneDrive\Documentos\GitHub\ProgramacionAvanzadaG2\AP\AP.MVC\bin\AP.Core.dll.config
+C:\Users\sergi\OneDrive\Documentos\GitHub\ProgramacionAvanzadaG2\AP\AP.MVC\bin\EntityFramework.dll
+C:\Users\sergi\OneDrive\Documentos\GitHub\ProgramacionAvanzadaG2\AP\AP.MVC\bin\AP.Data.dll.config
+C:\Users\sergi\OneDrive\Documentos\GitHub\ProgramacionAvanzadaG2\AP\AP.MVC\bin\EntityFramework.xml
+C:\Users\sergi\OneDrive\Documentos\GitHub\ProgramacionAvanzadaG2\AP\AP.MVC\bin\EntityFramework.SqlServer.dll
+C:\Users\sergi\OneDrive\Documentos\GitHub\ProgramacionAvanzadaG2\AP\AP.MVC\bin\EntityFramework.SqlServer.xml
