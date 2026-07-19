@@ -3,43 +3,67 @@
   "WorkspaceRootPath": "C:\\Users\\sergi\\OneDrive\\Documentos\\GitHub\\ProgramacionAvanzadaG2\\AP\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{23CE401D-C927-400E-9D7F-2A016CB57FA7}|AP.MVC\\AP.MVC.csproj|c:\\users\\sergi\\onedrive\\documentos\\github\\programacionavanzadag2\\ap\\ap.mvc\\controllers\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23CE401D-C927-400E-9D7F-2A016CB57FA7}|AP.MVC\\AP.MVC.csproj|solutionrelative:ap.mvc\\controllers\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23CE401D-C927-400E-9D7F-2A016CB57FA7}|AP.MVC\\AP.MVC.csproj|c:\\users\\sergi\\onedrive\\documentos\\github\\programacionavanzadag2\\ap\\ap.mvc\\views\\game\\win.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{23CE401D-C927-400E-9D7F-2A016CB57FA7}|AP.MVC\\AP.MVC.csproj|solutionrelative:ap.mvc\\views\\game\\win.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23CE401D-C927-400E-9D7F-2A016CB57FA7}|AP.MVC\\AP.MVC.csproj|c:\\users\\sergi\\onedrive\\documentos\\github\\programacionavanzadag2\\ap\\ap.mvc\\views\\gameover\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{23CE401D-C927-400E-9D7F-2A016CB57FA7}|AP.MVC\\AP.MVC.csproj|solutionrelative:ap.mvc\\views\\gameover\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23CE401D-C927-400E-9D7F-2A016CB57FA7}|AP.MVC\\AP.MVC.csproj|c:\\users\\sergi\\onedrive\\documentos\\github\\programacionavanzadag2\\ap\\ap.mvc\\controllers\\puzzlecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23CE401D-C927-400E-9D7F-2A016CB57FA7}|AP.MVC\\AP.MVC.csproj|solutionrelative:ap.mvc\\controllers\\puzzlecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86E4843A-7D94-46D5-BF41-DF70E36631B5}|AP.Models\\AP.Models.csproj|C:\\Users\\sergi\\OneDrive\\Documentos\\GitHub\\ProgramacionAvanzadaG2\\AP\\ap.models\\entities\\gamestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86E4843A-7D94-46D5-BF41-DF70E36631B5}|AP.Models\\AP.Models.csproj|solutionrelative:ap.models\\entities\\gamestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC370D75-F352-4060-B257-B89543773DB2}|AP.Data\\AP.Data.csproj|c:\\users\\sergi\\onedrive\\documentos\\github\\programacionavanzadag2\\ap\\ap.data\\levels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC370D75-F352-4060-B257-B89543773DB2}|AP.Data\\AP.Data.csproj|solutionrelative:ap.data\\levels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{AC370D75-F352-4060-B257-B89543773DB2}|AP.Data\\AP.Data.csproj|c:\\users\\sergi\\onedrive\\documentos\\github\\programacionavanzadag2\\ap\\ap.data\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AC370D75-F352-4060-B257-B89543773DB2}|AP.Data\\AP.Data.csproj|solutionrelative:ap.data\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D6C07516-A880-40E4-9224-21EC0A1A949C}|AP.Core\\AP.Core.csproj|c:\\users\\sergi\\onedrive\\documentos\\github\\programacionavanzadag2\\ap\\ap.core\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D6C07516-A880-40E4-9224-21EC0A1A949C}|AP.Core\\AP.Core.csproj|solutionrelative:ap.core\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{23CE401D-C927-400E-9D7F-2A016CB57FA7}|AP.MVC\\AP.MVC.csproj|c:\\users\\sergi\\onedrive\\documentos\\github\\programacionavanzadag2\\ap\\ap.mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{23CE401D-C927-400E-9D7F-2A016CB57FA7}|AP.MVC\\AP.MVC.csproj|solutionrelative:ap.mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{86E4843A-7D94-46D5-BF41-DF70E36631B5}|AP.Models\\AP.Models.csproj|c:\\users\\sergi\\onedrive\\documentos\\github\\programacionavanzadag2\\ap\\ap.models\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{86E4843A-7D94-46D5-BF41-DF70E36631B5}|AP.Models\\AP.Models.csproj|solutionrelative:ap.models\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{23CE401D-C927-400E-9D7F-2A016CB57FA7}|AP.MVC\\AP.MVC.csproj|c:\\users\\sergi\\onedrive\\documentos\\github\\programacionavanzadag2\\ap\\ap.mvc\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{23CE401D-C927-400E-9D7F-2A016CB57FA7}|AP.MVC\\AP.MVC.csproj|solutionrelative:ap.mvc\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AC370D75-F352-4060-B257-B89543773DB2}|AP.Data\\AP.Data.csproj|c:\\users\\sergi\\onedrive\\documentos\\github\\programacionavanzadag2\\ap\\ap.data\\mathpuzzlemodel.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AC370D75-F352-4060-B257-B89543773DB2}|AP.Data\\AP.Data.csproj|solutionrelative:ap.data\\mathpuzzlemodel.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AC370D75-F352-4060-B257-B89543773DB2}|AP.Data\\AP.Data.csproj|c:\\users\\sergi\\onedrive\\documentos\\github\\programacionavanzadag2\\ap\\ap.data\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{AC370D75-F352-4060-B257-B89543773DB2}|AP.Data\\AP.Data.csproj|solutionrelative:ap.data\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AC370D75-F352-4060-B257-B89543773DB2}|AP.Data\\AP.Data.csproj|c:\\users\\sergi\\onedrive\\documentos\\github\\programacionavanzadag2\\ap\\ap.data\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{AC370D75-F352-4060-B257-B89543773DB2}|AP.Data\\AP.Data.csproj|solutionrelative:ap.data\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AC370D75-F352-4060-B257-B89543773DB2}|AP.Data\\AP.Data.csproj|c:\\users\\sergi\\onedrive\\documentos\\github\\programacionavanzadag2\\ap\\ap.data\\mathpuzzlemodel.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "AbsoluteMoniker": "D:0:0:{AC370D75-F352-4060-B257-B89543773DB2}|AP.Data\\AP.Data.csproj|C:\\Users\\sergi\\OneDrive\\Documentos\\GitHub\\ProgramacionAvanzadaG2\\AP\\ap.data\\mathpuzzlemodel.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
       "RelativeMoniker": "D:0:0:{AC370D75-F352-4060-B257-B89543773DB2}|AP.Data\\AP.Data.csproj|solutionrelative:ap.data\\mathpuzzlemodel.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AC370D75-F352-4060-B257-B89543773DB2}|AP.Data\\AP.Data.csproj|c:\\users\\sergi\\onedrive\\documentos\\github\\programacionavanzadag2\\ap\\ap.data\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{23CE401D-C927-400E-9D7F-2A016CB57FA7}|AP.MVC\\AP.MVC.csproj|C:\\Users\\sergi\\OneDrive\\Documentos\\GitHub\\ProgramacionAvanzadaG2\\AP\\ap.mvc\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23CE401D-C927-400E-9D7F-2A016CB57FA7}|AP.MVC\\AP.MVC.csproj|solutionrelative:ap.mvc\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23CE401D-C927-400E-9D7F-2A016CB57FA7}|AP.MVC\\AP.MVC.csproj|C:\\Users\\sergi\\OneDrive\\Documentos\\GitHub\\ProgramacionAvanzadaG2\\AP\\ap.mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23CE401D-C927-400E-9D7F-2A016CB57FA7}|AP.MVC\\AP.MVC.csproj|solutionrelative:ap.mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6C07516-A880-40E4-9224-21EC0A1A949C}|AP.Core\\AP.Core.csproj|C:\\Users\\sergi\\OneDrive\\Documentos\\GitHub\\ProgramacionAvanzadaG2\\AP\\ap.core\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6C07516-A880-40E4-9224-21EC0A1A949C}|AP.Core\\AP.Core.csproj|solutionrelative:ap.core\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC370D75-F352-4060-B257-B89543773DB2}|AP.Data\\AP.Data.csproj|C:\\Users\\sergi\\OneDrive\\Documentos\\GitHub\\ProgramacionAvanzadaG2\\AP\\ap.data\\mathpuzzlemodel.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC370D75-F352-4060-B257-B89543773DB2}|AP.Data\\AP.Data.csproj|solutionrelative:ap.data\\mathpuzzlemodel.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86E4843A-7D94-46D5-BF41-DF70E36631B5}|AP.Models\\AP.Models.csproj|C:\\Users\\sergi\\OneDrive\\Documentos\\GitHub\\ProgramacionAvanzadaG2\\AP\\ap.models\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86E4843A-7D94-46D5-BF41-DF70E36631B5}|AP.Models\\AP.Models.csproj|solutionrelative:ap.models\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC370D75-F352-4060-B257-B89543773DB2}|AP.Data\\AP.Data.csproj|C:\\Users\\sergi\\OneDrive\\Documentos\\GitHub\\ProgramacionAvanzadaG2\\AP\\ap.data\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{AC370D75-F352-4060-B257-B89543773DB2}|AP.Data\\AP.Data.csproj|solutionrelative:ap.data\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC370D75-F352-4060-B257-B89543773DB2}|AP.Data\\AP.Data.csproj|C:\\Users\\sergi\\OneDrive\\Documentos\\GitHub\\ProgramacionAvanzadaG2\\AP\\ap.data\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{AC370D75-F352-4060-B257-B89543773DB2}|AP.Data\\AP.Data.csproj|solutionrelative:ap.data\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC370D75-F352-4060-B257-B89543773DB2}|AP.Data\\AP.Data.csproj|C:\\Users\\sergi\\OneDrive\\Documentos\\GitHub\\ProgramacionAvanzadaG2\\AP\\ap.data\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AC370D75-F352-4060-B257-B89543773DB2}|AP.Data\\AP.Data.csproj|solutionrelative:ap.data\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -49,10 +73,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{86E4843A-7D94-46D5-BF41-DF70E36631B5}|AP.Models\\AP.Models.csproj|C:\\Users\\sergi\\OneDrive\\Documentos\\GitHub\\ProgramacionAvanzadaG2\\AP\\ap.models\\entities\\gamequestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{86E4843A-7D94-46D5-BF41-DF70E36631B5}|AP.Models\\AP.Models.csproj|solutionrelative:ap.models\\entities\\gamequestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{86E4843A-7D94-46D5-BF41-DF70E36631B5}|AP.Models\\AP.Models.csproj|C:\\Users\\sergi\\OneDrive\\Documentos\\GitHub\\ProgramacionAvanzadaG2\\AP\\ap.models\\entities\\gamestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{86E4843A-7D94-46D5-BF41-DF70E36631B5}|AP.Models\\AP.Models.csproj|solutionrelative:ap.models\\entities\\gamestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D6C07516-A880-40E4-9224-21EC0A1A949C}|AP.Core\\AP.Core.csproj|C:\\Users\\sergi\\OneDrive\\Documentos\\GitHub\\ProgramacionAvanzadaG2\\AP\\ap.core\\services\\puzzleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -78,7 +98,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 283,
-          "SelectedChildIndex": 11,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -99,32 +119,83 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\sergi\\OneDrive\\Documentos\\GitHub\\ProgramacionAvanzadaG2\\AP\\AP.MVC\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "AP.MVC\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\sergi\\OneDrive\\Documentos\\GitHub\\ProgramacionAvanzadaG2\\AP\\AP.MVC\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "AP.MVC\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-18T08:46:07.617Z",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\sergi\\OneDrive\\Documentos\\GitHub\\ProgramacionAvanzadaG2\\AP\\AP.MVC\\Views\\GameOver\\Index.cshtml",
+              "RelativeDocumentMoniker": "AP.MVC\\Views\\GameOver\\Index.cshtml",
+              "ToolTip": "C:\\Users\\sergi\\OneDrive\\Documentos\\GitHub\\ProgramacionAvanzadaG2\\AP\\AP.MVC\\Views\\GameOver\\Index.cshtml",
+              "RelativeToolTip": "AP.MVC\\Views\\GameOver\\Index.cshtml",
+              "ViewState": "AgIAAHgAAAAAAAAAAAAAAIcAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-19T04:09:00.844Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
+              "Title": "Win.cshtml",
+              "DocumentMoniker": "C:\\Users\\sergi\\OneDrive\\Documentos\\GitHub\\ProgramacionAvanzadaG2\\AP\\AP.MVC\\Views\\Game\\Win.cshtml",
+              "RelativeDocumentMoniker": "AP.MVC\\Views\\Game\\Win.cshtml",
+              "ToolTip": "C:\\Users\\sergi\\OneDrive\\Documentos\\GitHub\\ProgramacionAvanzadaG2\\AP\\AP.MVC\\Views\\Game\\Win.cshtml",
+              "RelativeToolTip": "AP.MVC\\Views\\Game\\Win.cshtml",
+              "ViewState": "AgIAAHgAAAAAAAAAAAAUwJQAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-19T04:00:59.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PuzzleController.cs",
+              "DocumentMoniker": "C:\\Users\\sergi\\OneDrive\\Documentos\\GitHub\\ProgramacionAvanzadaG2\\AP\\AP.MVC\\Controllers\\PuzzleController.cs",
+              "RelativeDocumentMoniker": "AP.MVC\\Controllers\\PuzzleController.cs",
+              "ToolTip": "C:\\Users\\sergi\\OneDrive\\Documentos\\GitHub\\ProgramacionAvanzadaG2\\AP\\AP.MVC\\Controllers\\PuzzleController.cs",
+              "RelativeToolTip": "AP.MVC\\Controllers\\PuzzleController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwBoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-19T03:51:06.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameController.cs",
+              "DocumentMoniker": "C:\\Users\\sergi\\OneDrive\\Documentos\\GitHub\\ProgramacionAvanzadaG2\\AP\\AP.MVC\\Controllers\\GameController.cs",
+              "RelativeDocumentMoniker": "AP.MVC\\Controllers\\GameController.cs",
+              "ToolTip": "C:\\Users\\sergi\\OneDrive\\Documentos\\GitHub\\ProgramacionAvanzadaG2\\AP\\AP.MVC\\Controllers\\GameController.cs",
+              "RelativeToolTip": "AP.MVC\\Controllers\\GameController.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAwwEAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-19T03:50:26.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Levels.cs",
+              "DocumentMoniker": "C:\\Users\\sergi\\OneDrive\\Documentos\\GitHub\\ProgramacionAvanzadaG2\\AP\\AP.Data\\Levels.cs",
+              "RelativeDocumentMoniker": "AP.Data\\Levels.cs",
+              "ToolTip": "C:\\Users\\sergi\\OneDrive\\Documentos\\GitHub\\ProgramacionAvanzadaG2\\AP\\AP.Data\\Levels.cs",
+              "RelativeToolTip": "AP.Data\\Levels.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAwwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-19T03:42:38.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "LoginController.cs",
               "DocumentMoniker": "C:\\Users\\sergi\\OneDrive\\Documentos\\GitHub\\ProgramacionAvanzadaG2\\AP\\AP.MVC\\Controllers\\LoginController.cs",
               "RelativeDocumentMoniker": "AP.MVC\\Controllers\\LoginController.cs",
-              "ToolTip": "C:\\Users\\sergi\\OneDrive\\Documentos\\GitHub\\ProgramacionAvanzadaG2\\AP\\AP.MVC\\Controllers\\LoginController.cs",
-              "RelativeToolTip": "AP.MVC\\Controllers\\LoginController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\sergi\\OneDrive\\Documentos\\GitHub\\ProgramacionAvanzadaG2\\AP\\AP.MVC\\Controllers\\LoginController.cs*",
+              "RelativeToolTip": "AP.MVC\\Controllers\\LoginController.cs*",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-18T08:41:39.442Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-18T08:41:39.442Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 13,
               "Title": "packages.config",
               "DocumentMoniker": "C:\\Users\\sergi\\OneDrive\\Documentos\\GitHub\\ProgramacionAvanzadaG2\\AP\\AP.Data\\packages.config",
               "RelativeDocumentMoniker": "AP.Data\\packages.config",
@@ -132,12 +203,11 @@
               "RelativeToolTip": "AP.Data\\packages.config",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2026-07-18T08:10:23.416Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-18T08:10:23.416Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 15,
               "Title": "Users.cs",
               "DocumentMoniker": "C:\\Users\\sergi\\OneDrive\\Documentos\\GitHub\\ProgramacionAvanzadaG2\\AP\\AP.Data\\Users.cs",
               "RelativeDocumentMoniker": "AP.Data\\Users.cs",
@@ -145,12 +215,11 @@
               "RelativeToolTip": "AP.Data\\Users.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-18T06:52:57.786Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-18T06:52:57.786Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 12,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\sergi\\OneDrive\\Documentos\\GitHub\\ProgramacionAvanzadaG2\\AP\\AP.Models\\Entities\\User.cs",
               "RelativeDocumentMoniker": "AP.Models\\Entities\\User.cs",
@@ -158,25 +227,23 @@
               "RelativeToolTip": "AP.Models\\Entities\\User.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-18T06:47:13.079Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-18T06:47:13.079Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 11,
               "Title": "MathPuzzleModel.Context.cs",
               "DocumentMoniker": "C:\\Users\\sergi\\OneDrive\\Documentos\\GitHub\\ProgramacionAvanzadaG2\\AP\\AP.Data\\MathPuzzleModel.Context.cs",
               "RelativeDocumentMoniker": "AP.Data\\MathPuzzleModel.Context.cs",
               "ToolTip": "C:\\Users\\sergi\\OneDrive\\Documentos\\GitHub\\ProgramacionAvanzadaG2\\AP\\AP.Data\\MathPuzzleModel.Context.cs",
               "RelativeToolTip": "AP.Data\\MathPuzzleModel.Context.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-18T06:46:22.504Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-18T06:46:22.504Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 10,
               "Title": "UserService.cs",
               "DocumentMoniker": "C:\\Users\\sergi\\OneDrive\\Documentos\\GitHub\\ProgramacionAvanzadaG2\\AP\\AP.Core\\Services\\UserService.cs",
               "RelativeDocumentMoniker": "AP.Core\\Services\\UserService.cs",
@@ -184,37 +251,60 @@
               "RelativeToolTip": "AP.Core\\Services\\UserService.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-18T06:43:55.598Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-18T06:43:55.598Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "UserRepository.cs",
               "DocumentMoniker": "C:\\Users\\sergi\\OneDrive\\Documentos\\GitHub\\ProgramacionAvanzadaG2\\AP\\AP.Data\\Repositories\\UserRepository.cs",
               "RelativeDocumentMoniker": "AP.Data\\Repositories\\UserRepository.cs",
               "ToolTip": "C:\\Users\\sergi\\OneDrive\\Documentos\\GitHub\\ProgramacionAvanzadaG2\\AP\\AP.Data\\Repositories\\UserRepository.cs",
               "RelativeToolTip": "AP.Data\\Repositories\\UserRepository.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABsAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-18T06:40:56.291Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 4,
+              "Title": "GameState.cs",
+              "DocumentMoniker": "C:\\Users\\sergi\\OneDrive\\Documentos\\GitHub\\ProgramacionAvanzadaG2\\AP\\AP.Models\\Entities\\GameState.cs",
+              "RelativeDocumentMoniker": "AP.Models\\Entities\\GameState.cs",
+              "ToolTip": "C:\\Users\\sergi\\OneDrive\\Documentos\\GitHub\\ProgramacionAvanzadaG2\\AP\\AP.Models\\Entities\\GameState.cs",
+              "RelativeToolTip": "AP.Models\\Entities\\GameState.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAmwCcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-06T05:23:45.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\sergi\\OneDrive\\Documentos\\GitHub\\ProgramacionAvanzadaG2\\AP\\AP.MVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "AP.MVC\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\sergi\\OneDrive\\Documentos\\GitHub\\ProgramacionAvanzadaG2\\AP\\AP.MVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "AP.MVC\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-18T08:46:07.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "MathPuzzleModel.edmx [Diagram1]",
               "DocumentMoniker": "C:\\Users\\sergi\\OneDrive\\Documentos\\GitHub\\ProgramacionAvanzadaG2\\AP\\AP.Data\\MathPuzzleModel.edmx",
               "RelativeDocumentMoniker": "AP.Data\\MathPuzzleModel.edmx",
               "ToolTip": "C:\\Users\\sergi\\OneDrive\\Documentos\\GitHub\\ProgramacionAvanzadaG2\\AP\\AP.Data\\MathPuzzleModel.edmx [Diagram1]",
               "RelativeToolTip": "AP.Data\\MathPuzzleModel.edmx [Diagram1]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
-              "WhenOpened": "2026-07-18T06:34:04.654Z",
-              "EditorCaption": " [Diagram1]"
+              "WhenOpened": "2026-07-18T06:34:04.654Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 14,
               "Title": "App.Config",
               "DocumentMoniker": "C:\\Users\\sergi\\OneDrive\\Documentos\\GitHub\\ProgramacionAvanzadaG2\\AP\\AP.Data\\App.Config",
               "RelativeDocumentMoniker": "AP.Data\\App.Config",
@@ -222,25 +312,11 @@
               "RelativeToolTip": "AP.Data\\App.Config",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2026-07-18T07:01:42.413Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-18T07:01:42.413Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "GameState.cs",
-              "DocumentMoniker": "C:\\Users\\sergi\\OneDrive\\Documentos\\GitHub\\ProgramacionAvanzadaG2\\AP\\AP.Models\\Entities\\GameState.cs",
-              "RelativeDocumentMoniker": "AP.Models\\Entities\\GameState.cs",
-              "ToolTip": "C:\\Users\\sergi\\OneDrive\\Documentos\\GitHub\\ProgramacionAvanzadaG2\\AP\\AP.Models\\Entities\\GameState.cs",
-              "RelativeToolTip": "AP.Models\\Entities\\GameState.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAmwCkAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-06T05:23:45.919Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 16,
               "Title": "PuzzleRepository.cs",
               "DocumentMoniker": "C:\\Users\\sergi\\OneDrive\\Documentos\\GitHub\\ProgramacionAvanzadaG2\\AP\\AP.Data\\Repositories\\PuzzleRepository.cs",
               "RelativeDocumentMoniker": "AP.Data\\Repositories\\PuzzleRepository.cs",
@@ -248,12 +324,11 @@
               "RelativeToolTip": "AP.Data\\Repositories\\PuzzleRepository.cs",
               "ViewState": "AgIAADgAAAAAAAAAAAAIwEEAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-06T03:36:54.123Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-06T03:36:54.123Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 17,
               "Title": "GameQuestion.cs",
               "DocumentMoniker": "C:\\Users\\sergi\\OneDrive\\Documentos\\GitHub\\ProgramacionAvanzadaG2\\AP\\AP.Models\\Entities\\GameQuestion.cs",
               "RelativeDocumentMoniker": "AP.Models\\Entities\\GameQuestion.cs",
@@ -261,12 +336,11 @@
               "RelativeToolTip": "AP.Models\\Entities\\GameQuestion.cs",
               "ViewState": "AgIAAAoAAAAAAAAAAAA1wBoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-06T04:43:48.88Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-06T04:43:48.88Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 18,
               "Title": "PuzzleService.cs",
               "DocumentMoniker": "C:\\Users\\sergi\\OneDrive\\Documentos\\GitHub\\ProgramacionAvanzadaG2\\AP\\AP.Core\\Services\\PuzzleService.cs",
               "RelativeDocumentMoniker": "AP.Core\\Services\\PuzzleService.cs",
@@ -274,12 +348,11 @@
               "RelativeToolTip": "AP.Core\\Services\\PuzzleService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-06T03:38:12.999Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-06T03:38:12.999Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 19,
               "Title": "IPuzzleService.cs",
               "DocumentMoniker": "C:\\Users\\sergi\\OneDrive\\Documentos\\GitHub\\ProgramacionAvanzadaG2\\AP\\AP.Core\\Interfaces\\IPuzzleService.cs",
               "RelativeDocumentMoniker": "AP.Core\\Interfaces\\IPuzzleService.cs",
@@ -287,12 +360,11 @@
               "RelativeToolTip": "AP.Core\\Interfaces\\IPuzzleService.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAADwvxcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-06T03:37:48.598Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-06T03:37:48.598Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 20,
               "Title": "IPuzzleRepository.cs",
               "DocumentMoniker": "C:\\Users\\sergi\\OneDrive\\Documentos\\GitHub\\ProgramacionAvanzadaG2\\AP\\AP.Data\\Repositories\\IPuzzleRepository.cs",
               "RelativeDocumentMoniker": "AP.Data\\Repositories\\IPuzzleRepository.cs",
@@ -300,12 +372,11 @@
               "RelativeToolTip": "AP.Data\\Repositories\\IPuzzleRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-06T03:36:13.069Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-06T03:36:13.069Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 21,
               "Title": "Puzzle.cs",
               "DocumentMoniker": "C:\\Users\\sergi\\OneDrive\\Documentos\\GitHub\\ProgramacionAvanzadaG2\\AP\\AP.Models\\Entities\\Puzzle.cs",
               "RelativeDocumentMoniker": "AP.Models\\Entities\\Puzzle.cs",
@@ -313,8 +384,7 @@
               "RelativeToolTip": "AP.Models\\Entities\\Puzzle.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-06T03:32:57.814Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-06T03:32:57.814Z"
             }
           ]
         },

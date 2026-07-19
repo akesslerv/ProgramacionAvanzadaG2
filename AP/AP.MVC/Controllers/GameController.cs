@@ -52,6 +52,16 @@ namespace AP.MVC.Controllers
             if (selectedAnswer == game.CurrentQuestion.CorrectAnswer)
             {
                 game.Score += game.CurrentQuestion.Points;
+
+                // Si acaba de completar el nivel 15, gana
+                if (game.Level >= 15)
+                {
+                    Session["Game"] = game;
+                    return RedirectToAction("Win");
+                }
+
+                // Si aún no ha llegado al último nivel, avanza
+                game.Level++;
             }
             else
             {
@@ -80,6 +90,11 @@ namespace AP.MVC.Controllers
             Session.Remove("Game");
 
             return RedirectToAction("Index");
+        }
+
+        public ActionResult Win()
+        {
+            return View();
         }
     }
 }

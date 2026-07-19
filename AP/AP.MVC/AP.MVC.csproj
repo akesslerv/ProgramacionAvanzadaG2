@@ -194,6 +194,7 @@
     <Content Include="Views\Login\Index.cshtml" />
     <Content Include="Views\Game\Index.cshtml" />
     <Content Include="Views\GameOver\Index.cshtml" />
+    <Content Include="Views\Game\Win.cshtml" />
     <None Include="Views\Login\ForgotPassword.cshtml" />
     <Content Include="Views\Login\ResetPassword.cshtml" />
     <Content Include="Views\Puzzle\Index.cshtml" />
