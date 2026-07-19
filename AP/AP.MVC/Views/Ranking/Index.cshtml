@@ -1,4 +1,5 @@
-﻿@{
+﻿@model List<AP.Data.Scores>
+@{
     ViewBag.Title = "Ranking";
 }
 
@@ -78,62 +79,69 @@
 
         <tr>
 
-            <th>Posición</th>
+            <th>🏆</th>
             <th>Jugador</th>
-            <th>Puntos</th>
+            <th>⭐ Puntos</th>
+            <th>🎯 Nivel</th>
+            <th>❤️ Vidas</th>
 
         </tr>
 
-        <tr>
+        @{
+            int posicion = 1;
+        }
 
-            <td>🥇</td>
-            <td>Sergio</td>
-            <td>320</td>
+        @foreach (var score in Model)
+        {
+            <tr>
 
-        </tr>
+                <td>
+                    @if (posicion == 1)
+                    {
+                        @:🥇
+                    }
+                    else if (posicion == 2)
+                    {
+                        @:🥈
+                    }
+                    else if (posicion == 3)
+                    {
+                        @:🥉
+                    }
+                    else
+                    {
+                        @posicion
+                    }
+                </td>
 
-        <tr>
+                <td>@score.Users.Name</td>
 
-            <td>🥈</td>
-            <td>María</td>
-            <td>280</td>
+                <td>@score.TotalScore</td>
 
-        </tr>
+                <td>@score.ReachedLevel</td>
 
-        <tr>
+                <td>
+                    @for (int i = 0; i < score.RemainingLives; i++)
+                    {
+                        @:❤️
+                    }
+                </td>
 
-            <td>🥉</td>
-            <td>Carlos</td>
-            <td>250</td>
+            </tr>
 
-        </tr>
-
-        <tr>
-
-            <td>4</td>
-            <td>Ana</td>
-            <td>210</td>
-
-        </tr>
-
-        <tr>
-
-            <td>5</td>
-            <td>Luis</td>
-            <td>180</td>
-
-        </tr>
+            posicion++;
+        }
 
     </table>
 
     <div class="back">
 
         @Html.ActionLink(
-                 "← Volver al Inicio",
-                 "Index",
-                 "Home",
-                 null,
-                 new { @class = "btn-home" })
+                      "← Volver al Inicio",
+                      "Index",
+                      "Home",
+                      null,
+                      new { @class = "btn-home" })
 
     </div>
 

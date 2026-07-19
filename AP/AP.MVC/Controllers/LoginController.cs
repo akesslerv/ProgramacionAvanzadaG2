@@ -8,7 +8,7 @@ namespace AP.MVC.Controllers
     {
         private readonly UserService _userService = new UserService();
 
-        // logjn
+        // login
         [HttpGet]
         public ActionResult Index()
         {

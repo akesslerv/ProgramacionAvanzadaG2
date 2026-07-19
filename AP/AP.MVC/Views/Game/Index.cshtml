@@ -107,21 +107,28 @@
             Nivel @Model.Level
         </div>
 
-        <div>
+        <div id="timer">
             ⏱ 30 s
         </div>
 
     </div>
 
     <!-- Barra de progreso -->
+    @{
+        int progress = (int)Math.Round((Model.Level / 15.0) * 100);
+    }
+
     <div class="progress mb-4">
 
-        <div class="progress-bar bg-success"
+        <div class="progress-bar bg-success d-flex align-items-center justify-content-center"
              role="progressbar"
-             style="width:20%;"
-             aria-valuenow="20"
+             style="width:@progress%;"
+             aria-valuenow="@progress"
              aria-valuemin="0"
              aria-valuemax="100">
+
+            @progress%
+
         </div>
 
     </div>
@@ -130,49 +137,116 @@
     <div class="question-box">
 
         <div class="question">
-
             @Model.CurrentQuestion.Question
-
         </div>
 
     </div>
 
     <!-- Respuestas -->
-
     @using (Html.BeginForm("Answer", "Game", FormMethod.Post))
     {
         <button type="submit"
                 name="selectedAnswer"
                 value="@Model.CurrentQuestion.OptionA"
-                class="answer blue">
+                class="answer blue answer-btn">
             @Model.CurrentQuestion.OptionA
         </button>
 
         <button type="submit"
                 name="selectedAnswer"
                 value="@Model.CurrentQuestion.OptionB"
-                class="answer green">
+                class="answer green answer-btn">
             @Model.CurrentQuestion.OptionB
         </button>
 
         <button type="submit"
                 name="selectedAnswer"
                 value="@Model.CurrentQuestion.OptionC"
-                class="answer yellow">
+                class="answer yellow answer-btn">
             @Model.CurrentQuestion.OptionC
         </button>
 
         <button type="submit"
                 name="selectedAnswer"
                 value="@Model.CurrentQuestion.OptionD"
-                class="answer purple">
+                class="answer purple answer-btn">
             @Model.CurrentQuestion.OptionD
         </button>
+    }
+
+    <!-- Formulario oculto para cuando se acaba el tiempo -->
+    @using (Html.BeginForm("Answer", "Game", FormMethod.Post, new { id = "timeoutForm" }))
+    {
+        <input type="hidden"
+               name="selectedAnswer"
+               value="__TIMEOUT__" />
     }
 
 </div>
 
 <script>
 
-    const correctAnswer = "@Model.CurrentQuestion.CorrectAnswer";
+    let timeLeft = 30;
+
+    const timer = document.getElementById("timer");
+    const answerButtons = document.querySelectorAll(".answer-btn");
+
+    let answered = false;
+
+    answerButtons.forEach(function (button) {
+
+        button.addEventListener("click", function () {
+
+            if (answered)
+                return;
+
+            answered = true;
+
+            clearInterval(countdown);
+
+        });
+
+    });
+
+    const countdown = setInterval(function () {
+
+        if (answered)
+            return;
+
+        timeLeft--;
+
+        if (timeLeft <= 5) {
+            timer.style.color = "red";
+        }
+        else if (timeLeft <= 10) {
+            timer.style.color = "orange";
+        }
+        else {
+            timer.style.color = "";
+        }
+
+        timer.innerHTML = "⏱ " + timeLeft + " s";
+
+        if (timeLeft <= 0) {
+
+            answered = true;
+
+            clearInterval(countdown);
+
+            answerButtons.forEach(function (btn) {
+                btn.disabled = true;
+            });
+
+            timer.innerHTML = "⏰ Tiempo agotado";
+
+            setTimeout(function () {
+
+                document.getElementById("timeoutForm").submit();
+
+            }, 700);
+
+        }
+
+    }, 1000);
+
 </script>

@@ -1,0 +1,146 @@
+﻿@model AP.MVC.Models.ProfileViewModel
+
+@{
+    ViewBag.Title = "Mi Perfil";
+}
+
+<style>
+
+    .profile-container {
+        max-width: 900px;
+        margin: 40px auto;
+    }
+
+    .profile-header {
+        background: linear-gradient(135deg,#8b5cf6,#6d28d9);
+        color: white;
+        border-radius: 20px;
+        padding: 35px;
+        text-align: center;
+        box-shadow: 0 10px 25px rgba(0,0,0,.25);
+        margin-bottom: 30px;
+    }
+
+        .profile-header h2 {
+            margin-top: 15px;
+            font-weight: bold;
+        }
+
+        .profile-header p {
+            font-size: 18px;
+            margin: 0;
+        }
+
+    .stat-card {
+        border-radius: 20px;
+        padding: 25px;
+        text-align: center;
+        background: white;
+        box-shadow: 0 8px 20px rgba(0,0,0,.12);
+        transition: .3s;
+        margin-bottom: 25px;
+    }
+
+        .stat-card:hover {
+            transform: translateY(-5px);
+        }
+
+    .stat-icon {
+        font-size: 40px;
+    }
+
+    .stat-title {
+        color: #777;
+        font-size: 16px;
+        margin-top: 10px;
+    }
+
+    .stat-value {
+        font-size: 32px;
+        font-weight: bold;
+        color: #333;
+    }
+
+    .back-btn {
+        margin-top: 20px;
+    }
+</style>
+
+<div class="profile-container">
+
+    <div class="profile-header">
+
+        <div style="font-size:70px;">👤</div>
+
+        <h2>@Model.Name</h2>
+
+        <p>@Model.Username</p>
+
+    </div>
+
+    <div class="row">
+
+        <div class="col-md-6">
+            <div class="stat-card">
+                <div class="stat-icon">🏆</div>
+                <div class="stat-title">Mejor Puntaje</div>
+                <div class="stat-value">@Model.BestScore</div>
+            </div>
+        </div>
+
+        <div class="col-md-6">
+            <div class="stat-card">
+                <div class="stat-icon">🎮</div>
+                <div class="stat-title">Partidas Jugadas</div>
+                <div class="stat-value">@Model.GamesPlayed</div>
+            </div>
+        </div>
+
+        <div class="col-md-6">
+            <div class="stat-card">
+                <div class="stat-icon">📈</div>
+                <div class="stat-title">Nivel Máximo</div>
+                <div class="stat-value">@Model.MaxLevel</div>
+            </div>
+        </div>
+
+        <div class="col-md-6">
+            <div class="stat-card">
+                <div class="stat-icon">❤️</div>
+                <div class="stat-title">Mayor Cantidad de Vidas</div>
+                <div class="stat-value">@Model.BestLives</div>
+            </div>
+        </div>
+
+    </div>
+
+    <div class="stat-card">
+
+        <div class="stat-icon">📅</div>
+
+        <div class="stat-title">
+            Última Partida
+        </div>
+
+        <div class="stat-value" style="font-size:24px;">
+
+            @(Model.LastGame.HasValue
+                ? Model.LastGame.Value.ToString("dd/MM/yyyy HH:mm")
+                : "Sin partidas registradas")
+
+        </div>
+
+    </div>
+
+    <div class="text-center back-btn">
+
+        <a href="@Url.Action("Index","Home")"
+           class="btn btn-primary btn-lg">
+
+            ⬅ Volver al Inicio
+
+        </a>
+
+    </div>
+
+</div>

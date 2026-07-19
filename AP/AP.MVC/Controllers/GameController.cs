@@ -2,16 +2,22 @@
 using AP.Core.Interfaces;
 using AP.Core.Services;
 using AP.Models.Entities;
+using AP.Data.Repositories;
 
 namespace AP.MVC.Controllers
 {
     public class GameController : Controller
     {
         private readonly IPuzzleService service;
+        private readonly UserRepository userRepository;
+        private readonly ScoreRepository scoreRepository;
 
         public GameController()
         {
             service = new PuzzleService();
+
+            userRepository = new UserRepository();
+            scoreRepository = new ScoreRepository();
         }
 
         public ActionResult Index()
@@ -51,12 +57,16 @@ namespace AP.MVC.Controllers
 
             if (selectedAnswer == game.CurrentQuestion.CorrectAnswer)
             {
-                game.Score += game.CurrentQuestion.Points;
+                // Los puntos aumentan según el nivel
+                game.Score += game.Level * 10;
 
                 // Si acaba de completar el nivel 15, gana
                 if (game.Level >= 15)
                 {
                     Session["Game"] = game;
+
+                    SaveScore(game);
+
                     return RedirectToAction("Win");
                 }
 
@@ -65,6 +75,15 @@ namespace AP.MVC.Controllers
             }
             else
             {
+                // Restar puntos según el nivel
+                game.Score -= game.Level * 5;
+
+                // Evitar puntajes negativos
+                if (game.Score < 0)
+                {
+                    game.Score = 0;
+                }
+
                 game.Lives--;
             }
 
@@ -72,6 +91,8 @@ namespace AP.MVC.Controllers
             {
                 game.GameOver = true;
                 Session["Game"] = game;
+
+                SaveScore(game);
 
                 return RedirectToAction("Index", "GameOver");
             }
@@ -95,6 +116,21 @@ namespace AP.MVC.Controllers
         public ActionResult Win()
         {
             return View();
+        }
+
+        private void SaveScore(GameState game)
+        {
+            if (Session["User"] == null)
+                return;
+
+            var username = Session["User"].ToString();
+
+            var user = userRepository.GetByUsername(username);
+
+            if (user == null)
+                return;
+
+            scoreRepository.SaveGame(user, game);
         }
     }
 }
