@@ -16,3 +16,9 @@ C:\Users\sergi\OneDrive\Documentos\GitHub\ProgramacionAvanzadaG2\AP\AP.Models\ob
 C:\Users\sergi\OneDrive\Documentos\GitHub\ProgramacionAvanzadaG2\AP\AP.Models\obj\Debug\AP.Models.csproj.CoreCompileInputs.cache
 C:\Users\sergi\OneDrive\Documentos\GitHub\ProgramacionAvanzadaG2\AP\AP.Models\obj\Debug\AP.Models.dll
 C:\Users\sergi\OneDrive\Documentos\GitHub\ProgramacionAvanzadaG2\AP\AP.Models\obj\Debug\AP.Models.pdb
+C:\Users\chaco\Documents\Programacion Avanzada\Proyecto\Avance 3 git\AP\AP.Models\bin\Debug\AP.Models.dll
+C:\Users\chaco\Documents\Programacion Avanzada\Proyecto\Avance 3 git\AP\AP.Models\bin\Debug\AP.Models.pdb
+C:\Users\chaco\Documents\Programacion Avanzada\Proyecto\Avance 3 git\AP\AP.Models\obj\Debug\AP.Models.csproj.AssemblyReference.cache
+C:\Users\chaco\Documents\Programacion Avanzada\Proyecto\Avance 3 git\AP\AP.Models\obj\Debug\AP.Models.csproj.CoreCompileInputs.cache
+C:\Users\chaco\Documents\Programacion Avanzada\Proyecto\Avance 3 git\AP\AP.Models\obj\Debug\AP.Models.dll
+C:\Users\chaco\Documents\Programacion Avanzada\Proyecto\Avance 3 git\AP\AP.Models\obj\Debug\AP.Models.pdb

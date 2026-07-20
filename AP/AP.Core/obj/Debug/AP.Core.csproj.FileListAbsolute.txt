@@ -61,3 +61,44 @@ C:\Users\sergi\OneDrive\Documentos\GitHub\ProgramacionAvanzadaG2\AP\AP.Core\bin\
 C:\Users\sergi\OneDrive\Documentos\GitHub\ProgramacionAvanzadaG2\AP\AP.Core\bin\Debug\EntityFramework.dll
 C:\Users\sergi\OneDrive\Documentos\GitHub\ProgramacionAvanzadaG2\AP\AP.Core\bin\Debug\AP.Data.dll.config
 C:\Users\sergi\OneDrive\Documentos\GitHub\ProgramacionAvanzadaG2\AP\AP.Core\bin\Debug\EntityFramework.xml
+C:\Users\chaco\Documents\Programacion Avanzada\Proyecto\Avance 3 git\AP\AP.Core\bin\Debug\AP.Core.dll.config
+C:\Users\chaco\Documents\Programacion Avanzada\Proyecto\Avance 3 git\AP\AP.Core\bin\Debug\AP.Core.dll
+C:\Users\chaco\Documents\Programacion Avanzada\Proyecto\Avance 3 git\AP\AP.Core\bin\Debug\AP.Core.pdb
+C:\Users\chaco\Documents\Programacion Avanzada\Proyecto\Avance 3 git\AP\AP.Core\bin\Debug\AP.Data.dll
+C:\Users\chaco\Documents\Programacion Avanzada\Proyecto\Avance 3 git\AP\AP.Core\bin\Debug\AP.Models.dll
+C:\Users\chaco\Documents\Programacion Avanzada\Proyecto\Avance 3 git\AP\AP.Core\bin\Debug\FParsec.dll
+C:\Users\chaco\Documents\Programacion Avanzada\Proyecto\Avance 3 git\AP\AP.Core\bin\Debug\FParsecCS.dll
+C:\Users\chaco\Documents\Programacion Avanzada\Proyecto\Avance 3 git\AP\AP.Core\bin\Debug\FSharp.Core.dll
+C:\Users\chaco\Documents\Programacion Avanzada\Proyecto\Avance 3 git\AP\AP.Core\bin\Debug\MathNet.Numerics.dll
+C:\Users\chaco\Documents\Programacion Avanzada\Proyecto\Avance 3 git\AP\AP.Core\bin\Debug\MathNet.Numerics.FSharp.dll
+C:\Users\chaco\Documents\Programacion Avanzada\Proyecto\Avance 3 git\AP\AP.Core\bin\Debug\MathNet.Symbolics.dll
+C:\Users\chaco\Documents\Programacion Avanzada\Proyecto\Avance 3 git\AP\AP.Core\bin\Debug\EntityFramework.dll
+C:\Users\chaco\Documents\Programacion Avanzada\Proyecto\Avance 3 git\AP\AP.Core\bin\Debug\AP.Data.pdb
+C:\Users\chaco\Documents\Programacion Avanzada\Proyecto\Avance 3 git\AP\AP.Core\bin\Debug\AP.Data.dll.config
+C:\Users\chaco\Documents\Programacion Avanzada\Proyecto\Avance 3 git\AP\AP.Core\bin\Debug\AP.Models.pdb
+C:\Users\chaco\Documents\Programacion Avanzada\Proyecto\Avance 3 git\AP\AP.Core\bin\Debug\FParsec.xml
+C:\Users\chaco\Documents\Programacion Avanzada\Proyecto\Avance 3 git\AP\AP.Core\bin\Debug\FParsecCS.xml
+C:\Users\chaco\Documents\Programacion Avanzada\Proyecto\Avance 3 git\AP\AP.Core\bin\Debug\FSharp.Core.xml
+C:\Users\chaco\Documents\Programacion Avanzada\Proyecto\Avance 3 git\AP\AP.Core\bin\Debug\MathNet.Numerics.xml
+C:\Users\chaco\Documents\Programacion Avanzada\Proyecto\Avance 3 git\AP\AP.Core\bin\Debug\MathNet.Numerics.FSharp.xml
+C:\Users\chaco\Documents\Programacion Avanzada\Proyecto\Avance 3 git\AP\AP.Core\bin\Debug\MathNet.Symbolics.xml
+C:\Users\chaco\Documents\Programacion Avanzada\Proyecto\Avance 3 git\AP\AP.Core\bin\Debug\EntityFramework.xml
+C:\Users\chaco\Documents\Programacion Avanzada\Proyecto\Avance 3 git\AP\AP.Core\bin\Debug\cs\FSharp.Core.resources.dll
+C:\Users\chaco\Documents\Programacion Avanzada\Proyecto\Avance 3 git\AP\AP.Core\bin\Debug\de\FSharp.Core.resources.dll
+C:\Users\chaco\Documents\Programacion Avanzada\Proyecto\Avance 3 git\AP\AP.Core\bin\Debug\en\FSharp.Core.resources.dll
+C:\Users\chaco\Documents\Programacion Avanzada\Proyecto\Avance 3 git\AP\AP.Core\bin\Debug\es\FSharp.Core.resources.dll
+C:\Users\chaco\Documents\Programacion Avanzada\Proyecto\Avance 3 git\AP\AP.Core\bin\Debug\fr\FSharp.Core.resources.dll
+C:\Users\chaco\Documents\Programacion Avanzada\Proyecto\Avance 3 git\AP\AP.Core\bin\Debug\it\FSharp.Core.resources.dll
+C:\Users\chaco\Documents\Programacion Avanzada\Proyecto\Avance 3 git\AP\AP.Core\bin\Debug\ja\FSharp.Core.resources.dll
+C:\Users\chaco\Documents\Programacion Avanzada\Proyecto\Avance 3 git\AP\AP.Core\bin\Debug\ko\FSharp.Core.resources.dll
+C:\Users\chaco\Documents\Programacion Avanzada\Proyecto\Avance 3 git\AP\AP.Core\bin\Debug\pl\FSharp.Core.resources.dll
+C:\Users\chaco\Documents\Programacion Avanzada\Proyecto\Avance 3 git\AP\AP.Core\bin\Debug\pt-BR\FSharp.Core.resources.dll
+C:\Users\chaco\Documents\Programacion Avanzada\Proyecto\Avance 3 git\AP\AP.Core\bin\Debug\ru\FSharp.Core.resources.dll
+C:\Users\chaco\Documents\Programacion Avanzada\Proyecto\Avance 3 git\AP\AP.Core\bin\Debug\tr\FSharp.Core.resources.dll
+C:\Users\chaco\Documents\Programacion Avanzada\Proyecto\Avance 3 git\AP\AP.Core\bin\Debug\zh-Hans\FSharp.Core.resources.dll
+C:\Users\chaco\Documents\Programacion Avanzada\Proyecto\Avance 3 git\AP\AP.Core\bin\Debug\zh-Hant\FSharp.Core.resources.dll
+C:\Users\chaco\Documents\Programacion Avanzada\Proyecto\Avance 3 git\AP\AP.Core\obj\Debug\AP.Core.csproj.AssemblyReference.cache
+C:\Users\chaco\Documents\Programacion Avanzada\Proyecto\Avance 3 git\AP\AP.Core\obj\Debug\AP.Core.csproj.CoreCompileInputs.cache
+C:\Users\chaco\Documents\Programacion Avanzada\Proyecto\Avance 3 git\AP\AP.Core\obj\Debug\AP.Core.csproj.Up2Date
+C:\Users\chaco\Documents\Programacion Avanzada\Proyecto\Avance 3 git\AP\AP.Core\obj\Debug\AP.Core.dll
+C:\Users\chaco\Documents\Programacion Avanzada\Proyecto\Avance 3 git\AP\AP.Core\obj\Debug\AP.Core.pdb

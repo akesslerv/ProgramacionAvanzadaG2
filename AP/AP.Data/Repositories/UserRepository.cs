@@ -60,5 +60,20 @@ namespace AP.Data.Repositories
                 MustChangePassword = false
             };
         }
+        public bool CreateUser(User user)
+        {
+            var entity = new Users
+            {
+                Name = user.Name,
+                Email = user.Username,
+                Password = user.Password,
+                Role = "Player"
+            };
+
+            db.Users.Add(entity);
+            db.SaveChanges();
+
+            return true;
+        }
     }
 }

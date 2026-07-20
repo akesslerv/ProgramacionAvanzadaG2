@@ -36,5 +36,24 @@ namespace AP.MVC.Services
             _repo.UpdatePassword(user, newPassword);
             return true;
         }
+
+        // Registro
+        public bool RegisterUser(string name, string email, string password)
+        {
+            if (UserExists(email))
+                return false;
+
+            var user = new User
+            {
+                Name = name,
+                Username = email,
+                Password = password,
+                Role = "Player"
+            };
+
+            _repo.CreateUser(user);
+
+            return true;
+        }
     }
 }

@@ -96,5 +96,39 @@ namespace AP.MVC.Controllers
             Session.Clear();
             return RedirectToAction("Index");
         }
+
+        // Registro
+
+        [HttpGet]
+        public ActionResult Register()
+        {
+            return View();
+        }
+
+
+        [HttpPost]
+        public ActionResult Register(string name, string email, string password)
+        {
+            if (string.IsNullOrWhiteSpace(name) ||
+                string.IsNullOrWhiteSpace(email) ||
+                string.IsNullOrWhiteSpace(password))
+            {
+                ViewBag.Error = "Todos los campos son obligatorios";
+                return View();
+            }
+
+
+            var result = _userService.RegisterUser(name, email, password);
+
+
+            if (!result)
+            {
+                ViewBag.Error = "El correo ya está registrado";
+                return View();
+            }
+
+
+            return RedirectToAction("Index");
+        }
     }
 }
