@@ -11,7 +11,9 @@ namespace AP.Data.Repositories
 
         public User ValidateUser(string username, string password)
         {
-            var entity = db.Users.FirstOrDefault(u => u.Email == username);
+            var entity = db.Users
+               .AsNoTracking()
+               .FirstOrDefault(u => u.Email == username);
 
             if (entity == null)
                 return null;

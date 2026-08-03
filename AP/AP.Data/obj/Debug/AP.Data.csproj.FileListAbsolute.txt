@@ -44,3 +44,17 @@ C:\Users\chaco\Documents\Programacion Avanzada\Proyecto\Avance 3 git\AP\AP.Data\
 C:\Users\chaco\Documents\Programacion Avanzada\Proyecto\Avance 3 git\AP\AP.Data\obj\Debug\AP.Data.csproj.Up2Date
 C:\Users\chaco\Documents\Programacion Avanzada\Proyecto\Avance 3 git\AP\AP.Data\obj\Debug\AP.Data.dll
 C:\Users\chaco\Documents\Programacion Avanzada\Proyecto\Avance 3 git\AP\AP.Data\obj\Debug\AP.Data.pdb
+D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\ProgramacionAvanzadaG2\AP\AP.Data\bin\Debug\AP.Data.dll.config
+D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\ProgramacionAvanzadaG2\AP\AP.Data\bin\Debug\AP.Data.dll
+D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\ProgramacionAvanzadaG2\AP\AP.Data\bin\Debug\AP.Data.pdb
+D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\ProgramacionAvanzadaG2\AP\AP.Data\bin\Debug\AP.Models.dll
+D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\ProgramacionAvanzadaG2\AP\AP.Data\bin\Debug\EntityFramework.dll
+D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\ProgramacionAvanzadaG2\AP\AP.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\ProgramacionAvanzadaG2\AP\AP.Data\bin\Debug\AP.Models.pdb
+D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\ProgramacionAvanzadaG2\AP\AP.Data\bin\Debug\EntityFramework.xml
+D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\ProgramacionAvanzadaG2\AP\AP.Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\ProgramacionAvanzadaG2\AP\AP.Data\obj\Debug\AP.Data.csproj.AssemblyReference.cache
+D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\ProgramacionAvanzadaG2\AP\AP.Data\obj\Debug\AP.Data.csproj.CoreCompileInputs.cache
+D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\ProgramacionAvanzadaG2\AP\AP.Data\obj\Debug\AP.Data.csproj.Up2Date
+D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\ProgramacionAvanzadaG2\AP\AP.Data\obj\Debug\AP.Data.dll
+D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\ProgramacionAvanzadaG2\AP\AP.Data\obj\Debug\AP.Data.pdb

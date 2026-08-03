@@ -1,429 +1,91 @@
-C:\Users\juans\source\repos\AP\AP.MVC\bin\AP.MVC.dll.config
-C:\Users\juans\source\repos\AP\AP.MVC\bin\AP.MVC.dll
-C:\Users\juans\source\repos\AP\AP.MVC\bin\AP.MVC.pdb
-C:\Users\juans\source\repos\AP\AP.MVC\bin\roslyn\csc.exe
-C:\Users\juans\source\repos\AP\AP.MVC\bin\roslyn\csc.exe.config
-C:\Users\juans\source\repos\AP\AP.MVC\bin\roslyn\csc.rsp
-C:\Users\juans\source\repos\AP\AP.MVC\bin\roslyn\csi.exe
-C:\Users\juans\source\repos\AP\AP.MVC\bin\roslyn\csi.exe.config
-C:\Users\juans\source\repos\AP\AP.MVC\bin\roslyn\csi.rsp
-C:\Users\juans\source\repos\AP\AP.MVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
-C:\Users\juans\source\repos\AP\AP.MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
-C:\Users\juans\source\repos\AP\AP.MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
-C:\Users\juans\source\repos\AP\AP.MVC\bin\roslyn\Microsoft.CodeAnalysis.dll
-C:\Users\juans\source\repos\AP\AP.MVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
-C:\Users\juans\source\repos\AP\AP.MVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
-C:\Users\juans\source\repos\AP\AP.MVC\bin\roslyn\Microsoft.CSharp.Core.targets
-C:\Users\juans\source\repos\AP\AP.MVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
-C:\Users\juans\source\repos\AP\AP.MVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
-C:\Users\juans\source\repos\AP\AP.MVC\bin\roslyn\Microsoft.Managed.Core.targets
-C:\Users\juans\source\repos\AP\AP.MVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
-C:\Users\juans\source\repos\AP\AP.MVC\bin\roslyn\Microsoft.Win32.Primitives.dll
-C:\Users\juans\source\repos\AP\AP.MVC\bin\roslyn\System.AppContext.dll
-C:\Users\juans\source\repos\AP\AP.MVC\bin\roslyn\System.Collections.Immutable.dll
-C:\Users\juans\source\repos\AP\AP.MVC\bin\roslyn\System.Console.dll
-C:\Users\juans\source\repos\AP\AP.MVC\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
-C:\Users\juans\source\repos\AP\AP.MVC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
-C:\Users\juans\source\repos\AP\AP.MVC\bin\roslyn\System.Diagnostics.StackTrace.dll
-C:\Users\juans\source\repos\AP\AP.MVC\bin\roslyn\System.Globalization.Calendars.dll
-C:\Users\juans\source\repos\AP\AP.MVC\bin\roslyn\System.IO.Compression.dll
-C:\Users\juans\source\repos\AP\AP.MVC\bin\roslyn\System.IO.Compression.ZipFile.dll
-C:\Users\juans\source\repos\AP\AP.MVC\bin\roslyn\System.IO.FileSystem.dll
-C:\Users\juans\source\repos\AP\AP.MVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
-C:\Users\juans\source\repos\AP\AP.MVC\bin\roslyn\System.Net.Http.dll
-C:\Users\juans\source\repos\AP\AP.MVC\bin\roslyn\System.Net.Sockets.dll
-C:\Users\juans\source\repos\AP\AP.MVC\bin\roslyn\System.Reflection.Metadata.dll
-C:\Users\juans\source\repos\AP\AP.MVC\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
-C:\Users\juans\source\repos\AP\AP.MVC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
-C:\Users\juans\source\repos\AP\AP.MVC\bin\roslyn\System.Security.Cryptography.Encoding.dll
-C:\Users\juans\source\repos\AP\AP.MVC\bin\roslyn\System.Security.Cryptography.Primitives.dll
-C:\Users\juans\source\repos\AP\AP.MVC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
-C:\Users\juans\source\repos\AP\AP.MVC\bin\roslyn\System.Text.Encoding.CodePages.dll
-C:\Users\juans\source\repos\AP\AP.MVC\bin\roslyn\System.Threading.Tasks.Extensions.dll
-C:\Users\juans\source\repos\AP\AP.MVC\bin\roslyn\System.ValueTuple.dll
-C:\Users\juans\source\repos\AP\AP.MVC\bin\roslyn\System.Xml.ReaderWriter.dll
-C:\Users\juans\source\repos\AP\AP.MVC\bin\roslyn\System.Xml.XmlDocument.dll
-C:\Users\juans\source\repos\AP\AP.MVC\bin\roslyn\System.Xml.XPath.dll
-C:\Users\juans\source\repos\AP\AP.MVC\bin\roslyn\System.Xml.XPath.XDocument.dll
-C:\Users\juans\source\repos\AP\AP.MVC\bin\roslyn\vbc.exe
-C:\Users\juans\source\repos\AP\AP.MVC\bin\roslyn\vbc.exe.config
-C:\Users\juans\source\repos\AP\AP.MVC\bin\roslyn\vbc.rsp
-C:\Users\juans\source\repos\AP\AP.MVC\bin\roslyn\VBCSCompiler.exe
-C:\Users\juans\source\repos\AP\AP.MVC\bin\roslyn\VBCSCompiler.exe.config
-C:\Users\juans\source\repos\AP\AP.MVC\bin\Antlr3.Runtime.dll
-C:\Users\juans\source\repos\AP\AP.MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
-C:\Users\juans\source\repos\AP\AP.MVC\bin\Microsoft.Web.Infrastructure.dll
-C:\Users\juans\source\repos\AP\AP.MVC\bin\Newtonsoft.Json.dll
-C:\Users\juans\source\repos\AP\AP.MVC\bin\System.Web.Helpers.dll
-C:\Users\juans\source\repos\AP\AP.MVC\bin\System.Web.Mvc.dll
-C:\Users\juans\source\repos\AP\AP.MVC\bin\System.Web.Optimization.dll
-C:\Users\juans\source\repos\AP\AP.MVC\bin\System.Web.Razor.dll
-C:\Users\juans\source\repos\AP\AP.MVC\bin\System.Web.WebPages.Deployment.dll
-C:\Users\juans\source\repos\AP\AP.MVC\bin\System.Web.WebPages.dll
-C:\Users\juans\source\repos\AP\AP.MVC\bin\System.Web.WebPages.Razor.dll
-C:\Users\juans\source\repos\AP\AP.MVC\bin\WebGrease.dll
-C:\Users\juans\source\repos\AP\AP.MVC\bin\System.Web.Helpers.xml
-C:\Users\juans\source\repos\AP\AP.MVC\bin\System.Web.Mvc.xml
-C:\Users\juans\source\repos\AP\AP.MVC\bin\System.Web.Optimization.xml
-C:\Users\juans\source\repos\AP\AP.MVC\bin\System.Web.Razor.xml
-C:\Users\juans\source\repos\AP\AP.MVC\bin\System.Web.WebPages.xml
-C:\Users\juans\source\repos\AP\AP.MVC\bin\System.Web.WebPages.Deployment.xml
-C:\Users\juans\source\repos\AP\AP.MVC\bin\System.Web.WebPages.Razor.xml
-C:\Users\juans\source\repos\AP\AP.MVC\bin\Newtonsoft.Json.xml
-C:\Users\juans\source\repos\AP\AP.MVC\bin\Antlr3.Runtime.pdb
-C:\Users\juans\source\repos\AP\AP.MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\Users\juans\source\repos\AP\AP.MVC\obj\Debug\AP.MVC.csproj.AssemblyReference.cache
-C:\Users\juans\source\repos\AP\AP.MVC\obj\Debug\AP.MVC.csproj.CoreCompileInputs.cache
-C:\Users\juans\source\repos\AP\AP.MVC\obj\Debug\AP.MVC.csproj.Up2Date
-C:\Users\juans\source\repos\AP\AP.MVC\obj\Debug\AP.MVC.dll
-C:\Users\juans\source\repos\AP\AP.MVC\obj\Debug\AP.MVC.pdb
-C:\Users\sergi\Downloads\Progra avanzada\AP\AP.MVC\bin\AP.MVC.dll.config
-C:\Users\sergi\Downloads\Progra avanzada\AP\AP.MVC\bin\AP.MVC.dll
-C:\Users\sergi\Downloads\Progra avanzada\AP\AP.MVC\bin\AP.MVC.pdb
-C:\Users\sergi\Downloads\Progra avanzada\AP\AP.MVC\bin\roslyn\csc.exe
-C:\Users\sergi\Downloads\Progra avanzada\AP\AP.MVC\bin\roslyn\csc.exe.config
-C:\Users\sergi\Downloads\Progra avanzada\AP\AP.MVC\bin\roslyn\csc.rsp
-C:\Users\sergi\Downloads\Progra avanzada\AP\AP.MVC\bin\roslyn\csi.exe
-C:\Users\sergi\Downloads\Progra avanzada\AP\AP.MVC\bin\roslyn\csi.exe.config
-C:\Users\sergi\Downloads\Progra avanzada\AP\AP.MVC\bin\roslyn\csi.rsp
-C:\Users\sergi\Downloads\Progra avanzada\AP\AP.MVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
-C:\Users\sergi\Downloads\Progra avanzada\AP\AP.MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
-C:\Users\sergi\Downloads\Progra avanzada\AP\AP.MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
-C:\Users\sergi\Downloads\Progra avanzada\AP\AP.MVC\bin\roslyn\Microsoft.CodeAnalysis.dll
-C:\Users\sergi\Downloads\Progra avanzada\AP\AP.MVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
-C:\Users\sergi\Downloads\Progra avanzada\AP\AP.MVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
-C:\Users\sergi\Downloads\Progra avanzada\AP\AP.MVC\bin\roslyn\Microsoft.CSharp.Core.targets
-C:\Users\sergi\Downloads\Progra avanzada\AP\AP.MVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
-C:\Users\sergi\Downloads\Progra avanzada\AP\AP.MVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
-C:\Users\sergi\Downloads\Progra avanzada\AP\AP.MVC\bin\roslyn\Microsoft.Managed.Core.targets
-C:\Users\sergi\Downloads\Progra avanzada\AP\AP.MVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
-C:\Users\sergi\Downloads\Progra avanzada\AP\AP.MVC\bin\roslyn\Microsoft.Win32.Primitives.dll
-C:\Users\sergi\Downloads\Progra avanzada\AP\AP.MVC\bin\roslyn\System.AppContext.dll
-C:\Users\sergi\Downloads\Progra avanzada\AP\AP.MVC\bin\roslyn\System.Collections.Immutable.dll
-C:\Users\sergi\Downloads\Progra avanzada\AP\AP.MVC\bin\roslyn\System.Console.dll
-C:\Users\sergi\Downloads\Progra avanzada\AP\AP.MVC\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
-C:\Users\sergi\Downloads\Progra avanzada\AP\AP.MVC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
-C:\Users\sergi\Downloads\Progra avanzada\AP\AP.MVC\bin\roslyn\System.Diagnostics.StackTrace.dll
-C:\Users\sergi\Downloads\Progra avanzada\AP\AP.MVC\bin\roslyn\System.Globalization.Calendars.dll
-C:\Users\sergi\Downloads\Progra avanzada\AP\AP.MVC\bin\roslyn\System.IO.Compression.dll
-C:\Users\sergi\Downloads\Progra avanzada\AP\AP.MVC\bin\roslyn\System.IO.Compression.ZipFile.dll
-C:\Users\sergi\Downloads\Progra avanzada\AP\AP.MVC\bin\roslyn\System.IO.FileSystem.dll
-C:\Users\sergi\Downloads\Progra avanzada\AP\AP.MVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
-C:\Users\sergi\Downloads\Progra avanzada\AP\AP.MVC\bin\roslyn\System.Net.Http.dll
-C:\Users\sergi\Downloads\Progra avanzada\AP\AP.MVC\bin\roslyn\System.Net.Sockets.dll
-C:\Users\sergi\Downloads\Progra avanzada\AP\AP.MVC\bin\roslyn\System.Reflection.Metadata.dll
-C:\Users\sergi\Downloads\Progra avanzada\AP\AP.MVC\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
-C:\Users\sergi\Downloads\Progra avanzada\AP\AP.MVC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
-C:\Users\sergi\Downloads\Progra avanzada\AP\AP.MVC\bin\roslyn\System.Security.Cryptography.Encoding.dll
-C:\Users\sergi\Downloads\Progra avanzada\AP\AP.MVC\bin\roslyn\System.Security.Cryptography.Primitives.dll
-C:\Users\sergi\Downloads\Progra avanzada\AP\AP.MVC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
-C:\Users\sergi\Downloads\Progra avanzada\AP\AP.MVC\bin\roslyn\System.Text.Encoding.CodePages.dll
-C:\Users\sergi\Downloads\Progra avanzada\AP\AP.MVC\bin\roslyn\System.Threading.Tasks.Extensions.dll
-C:\Users\sergi\Downloads\Progra avanzada\AP\AP.MVC\bin\roslyn\System.ValueTuple.dll
-C:\Users\sergi\Downloads\Progra avanzada\AP\AP.MVC\bin\roslyn\System.Xml.ReaderWriter.dll
-C:\Users\sergi\Downloads\Progra avanzada\AP\AP.MVC\bin\roslyn\System.Xml.XmlDocument.dll
-C:\Users\sergi\Downloads\Progra avanzada\AP\AP.MVC\bin\roslyn\System.Xml.XPath.dll
-C:\Users\sergi\Downloads\Progra avanzada\AP\AP.MVC\bin\roslyn\System.Xml.XPath.XDocument.dll
-C:\Users\sergi\Downloads\Progra avanzada\AP\AP.MVC\bin\roslyn\vbc.exe
-C:\Users\sergi\Downloads\Progra avanzada\AP\AP.MVC\bin\roslyn\vbc.exe.config
-C:\Users\sergi\Downloads\Progra avanzada\AP\AP.MVC\bin\roslyn\vbc.rsp
-C:\Users\sergi\Downloads\Progra avanzada\AP\AP.MVC\bin\roslyn\VBCSCompiler.exe
-C:\Users\sergi\Downloads\Progra avanzada\AP\AP.MVC\bin\roslyn\VBCSCompiler.exe.config
-C:\Users\sergi\Downloads\Progra avanzada\AP\AP.MVC\bin\Antlr3.Runtime.dll
-C:\Users\sergi\Downloads\Progra avanzada\AP\AP.MVC\bin\AP.Core.dll
-C:\Users\sergi\Downloads\Progra avanzada\AP\AP.MVC\bin\AP.Models.dll
-C:\Users\sergi\Downloads\Progra avanzada\AP\AP.MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
-C:\Users\sergi\Downloads\Progra avanzada\AP\AP.MVC\bin\Microsoft.Web.Infrastructure.dll
-C:\Users\sergi\Downloads\Progra avanzada\AP\AP.MVC\bin\Newtonsoft.Json.dll
-C:\Users\sergi\Downloads\Progra avanzada\AP\AP.MVC\bin\System.Web.Helpers.dll
-C:\Users\sergi\Downloads\Progra avanzada\AP\AP.MVC\bin\System.Web.Mvc.dll
-C:\Users\sergi\Downloads\Progra avanzada\AP\AP.MVC\bin\System.Web.Optimization.dll
-C:\Users\sergi\Downloads\Progra avanzada\AP\AP.MVC\bin\System.Web.Razor.dll
-C:\Users\sergi\Downloads\Progra avanzada\AP\AP.MVC\bin\System.Web.WebPages.Deployment.dll
-C:\Users\sergi\Downloads\Progra avanzada\AP\AP.MVC\bin\System.Web.WebPages.dll
-C:\Users\sergi\Downloads\Progra avanzada\AP\AP.MVC\bin\System.Web.WebPages.Razor.dll
-C:\Users\sergi\Downloads\Progra avanzada\AP\AP.MVC\bin\WebGrease.dll
-C:\Users\sergi\Downloads\Progra avanzada\AP\AP.MVC\bin\AP.Core.pdb
-C:\Users\sergi\Downloads\Progra avanzada\AP\AP.MVC\bin\AP.Models.pdb
-C:\Users\sergi\Downloads\Progra avanzada\AP\AP.MVC\bin\System.Web.Helpers.xml
-C:\Users\sergi\Downloads\Progra avanzada\AP\AP.MVC\bin\System.Web.Mvc.xml
-C:\Users\sergi\Downloads\Progra avanzada\AP\AP.MVC\bin\System.Web.Optimization.xml
-C:\Users\sergi\Downloads\Progra avanzada\AP\AP.MVC\bin\System.Web.Razor.xml
-C:\Users\sergi\Downloads\Progra avanzada\AP\AP.MVC\bin\System.Web.WebPages.xml
-C:\Users\sergi\Downloads\Progra avanzada\AP\AP.MVC\bin\System.Web.WebPages.Deployment.xml
-C:\Users\sergi\Downloads\Progra avanzada\AP\AP.MVC\bin\System.Web.WebPages.Razor.xml
-C:\Users\sergi\Downloads\Progra avanzada\AP\AP.MVC\bin\Newtonsoft.Json.xml
-C:\Users\sergi\Downloads\Progra avanzada\AP\AP.MVC\bin\Antlr3.Runtime.pdb
-C:\Users\sergi\Downloads\Progra avanzada\AP\AP.MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\Users\sergi\Downloads\Progra avanzada\AP\AP.MVC\obj\Debug\AP.MVC.csproj.AssemblyReference.cache
-C:\Users\sergi\Downloads\Progra avanzada\AP\AP.MVC\obj\Debug\AP.MVC.csproj.CoreCompileInputs.cache
-C:\Users\sergi\Downloads\Progra avanzada\AP\AP.MVC\obj\Debug\AP.MVC.csproj.Up2Date
-C:\Users\sergi\Downloads\Progra avanzada\AP\AP.MVC\obj\Debug\AP.MVC.dll
-C:\Users\sergi\Downloads\Progra avanzada\AP\AP.MVC\obj\Debug\AP.MVC.pdb
-D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\AP\AP.MVC\bin\AP.MVC.dll.config
-D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\AP\AP.MVC\bin\AP.MVC.dll
-D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\AP\AP.MVC\bin\AP.MVC.pdb
-D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\AP\AP.MVC\bin\roslyn\csc.exe
-D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\AP\AP.MVC\bin\roslyn\csc.exe.config
-D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\AP\AP.MVC\bin\roslyn\csc.rsp
-D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\AP\AP.MVC\bin\roslyn\csi.exe
-D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\AP\AP.MVC\bin\roslyn\csi.exe.config
-D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\AP\AP.MVC\bin\roslyn\csi.rsp
-D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\AP\AP.MVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
-D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\AP\AP.MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
-D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\AP\AP.MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
-D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\AP\AP.MVC\bin\roslyn\Microsoft.CodeAnalysis.dll
-D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\AP\AP.MVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
-D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\AP\AP.MVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
-D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\AP\AP.MVC\bin\roslyn\Microsoft.CSharp.Core.targets
-D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\AP\AP.MVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
-D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\AP\AP.MVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
-D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\AP\AP.MVC\bin\roslyn\Microsoft.Managed.Core.targets
-D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\AP\AP.MVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
-D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\AP\AP.MVC\bin\roslyn\Microsoft.Win32.Primitives.dll
-D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\AP\AP.MVC\bin\roslyn\System.AppContext.dll
-D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\AP\AP.MVC\bin\roslyn\System.Collections.Immutable.dll
-D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\AP\AP.MVC\bin\roslyn\System.Console.dll
-D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\AP\AP.MVC\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
-D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\AP\AP.MVC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
-D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\AP\AP.MVC\bin\roslyn\System.Diagnostics.StackTrace.dll
-D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\AP\AP.MVC\bin\roslyn\System.Globalization.Calendars.dll
-D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\AP\AP.MVC\bin\roslyn\System.IO.Compression.dll
-D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\AP\AP.MVC\bin\roslyn\System.IO.Compression.ZipFile.dll
-D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\AP\AP.MVC\bin\roslyn\System.IO.FileSystem.dll
-D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\AP\AP.MVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
-D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\AP\AP.MVC\bin\roslyn\System.Net.Http.dll
-D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\AP\AP.MVC\bin\roslyn\System.Net.Sockets.dll
-D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\AP\AP.MVC\bin\roslyn\System.Reflection.Metadata.dll
-D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\AP\AP.MVC\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
-D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\AP\AP.MVC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
-D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\AP\AP.MVC\bin\roslyn\System.Security.Cryptography.Encoding.dll
-D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\AP\AP.MVC\bin\roslyn\System.Security.Cryptography.Primitives.dll
-D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\AP\AP.MVC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
-D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\AP\AP.MVC\bin\roslyn\System.Text.Encoding.CodePages.dll
-D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\AP\AP.MVC\bin\roslyn\System.Threading.Tasks.Extensions.dll
-D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\AP\AP.MVC\bin\roslyn\System.ValueTuple.dll
-D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\AP\AP.MVC\bin\roslyn\System.Xml.ReaderWriter.dll
-D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\AP\AP.MVC\bin\roslyn\System.Xml.XmlDocument.dll
-D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\AP\AP.MVC\bin\roslyn\System.Xml.XPath.dll
-D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\AP\AP.MVC\bin\roslyn\System.Xml.XPath.XDocument.dll
-D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\AP\AP.MVC\bin\roslyn\vbc.exe
-D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\AP\AP.MVC\bin\roslyn\vbc.exe.config
-D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\AP\AP.MVC\bin\roslyn\vbc.rsp
-D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\AP\AP.MVC\bin\roslyn\VBCSCompiler.exe
-D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\AP\AP.MVC\bin\roslyn\VBCSCompiler.exe.config
-D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\AP\AP.MVC\bin\Antlr3.Runtime.dll
-D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\AP\AP.MVC\bin\AP.Core.dll
-D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\AP\AP.MVC\bin\AP.Models.dll
-D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\AP\AP.MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
-D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\AP\AP.MVC\bin\Microsoft.Web.Infrastructure.dll
-D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\AP\AP.MVC\bin\Newtonsoft.Json.dll
-D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\AP\AP.MVC\bin\System.Web.Helpers.dll
-D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\AP\AP.MVC\bin\System.Web.Mvc.dll
-D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\AP\AP.MVC\bin\System.Web.Optimization.dll
-D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\AP\AP.MVC\bin\System.Web.Razor.dll
-D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\AP\AP.MVC\bin\System.Web.WebPages.Deployment.dll
-D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\AP\AP.MVC\bin\System.Web.WebPages.dll
-D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\AP\AP.MVC\bin\System.Web.WebPages.Razor.dll
-D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\AP\AP.MVC\bin\WebGrease.dll
-D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\AP\AP.MVC\bin\AP.Data.dll
-D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\AP\AP.MVC\bin\AP.Core.pdb
-D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\AP\AP.MVC\bin\AP.Models.pdb
-D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\AP\AP.MVC\bin\System.Web.Helpers.xml
-D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\AP\AP.MVC\bin\System.Web.Mvc.xml
-D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\AP\AP.MVC\bin\System.Web.Optimization.xml
-D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\AP\AP.MVC\bin\System.Web.Razor.xml
-D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\AP\AP.MVC\bin\System.Web.WebPages.xml
-D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\AP\AP.MVC\bin\System.Web.WebPages.Deployment.xml
-D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\AP\AP.MVC\bin\System.Web.WebPages.Razor.xml
-D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\AP\AP.MVC\bin\Newtonsoft.Json.xml
-D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\AP\AP.MVC\bin\Antlr3.Runtime.pdb
-D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\AP\AP.MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\AP\AP.MVC\bin\AP.Data.pdb
-D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\AP\AP.MVC\obj\Debug\AP.MVC.csproj.AssemblyReference.cache
-D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\AP\AP.MVC\obj\Debug\AP.MVC.csproj.CoreCompileInputs.cache
-D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\AP\AP.MVC\obj\Debug\AP.MVC.csproj.Up2Date
-D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\AP\AP.MVC\obj\Debug\AP.MVC.dll
-D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\AP\AP.MVC\obj\Debug\AP.MVC.pdb
-C:\Users\sergi\OneDrive\Documentos\GitHub\ProgramacionAvanzadaG2\AP\AP.MVC\bin\AP.MVC.dll.config
-C:\Users\sergi\OneDrive\Documentos\GitHub\ProgramacionAvanzadaG2\AP\AP.MVC\bin\AP.MVC.dll
-C:\Users\sergi\OneDrive\Documentos\GitHub\ProgramacionAvanzadaG2\AP\AP.MVC\bin\AP.MVC.pdb
-C:\Users\sergi\OneDrive\Documentos\GitHub\ProgramacionAvanzadaG2\AP\AP.MVC\bin\roslyn\csc.exe
-C:\Users\sergi\OneDrive\Documentos\GitHub\ProgramacionAvanzadaG2\AP\AP.MVC\bin\roslyn\csc.exe.config
-C:\Users\sergi\OneDrive\Documentos\GitHub\ProgramacionAvanzadaG2\AP\AP.MVC\bin\roslyn\csc.rsp
-C:\Users\sergi\OneDrive\Documentos\GitHub\ProgramacionAvanzadaG2\AP\AP.MVC\bin\roslyn\csi.exe
-C:\Users\sergi\OneDrive\Documentos\GitHub\ProgramacionAvanzadaG2\AP\AP.MVC\bin\roslyn\csi.exe.config
-C:\Users\sergi\OneDrive\Documentos\GitHub\ProgramacionAvanzadaG2\AP\AP.MVC\bin\roslyn\csi.rsp
-C:\Users\sergi\OneDrive\Documentos\GitHub\ProgramacionAvanzadaG2\AP\AP.MVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
-C:\Users\sergi\OneDrive\Documentos\GitHub\ProgramacionAvanzadaG2\AP\AP.MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
-C:\Users\sergi\OneDrive\Documentos\GitHub\ProgramacionAvanzadaG2\AP\AP.MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
-C:\Users\sergi\OneDrive\Documentos\GitHub\ProgramacionAvanzadaG2\AP\AP.MVC\bin\roslyn\Microsoft.CodeAnalysis.dll
-C:\Users\sergi\OneDrive\Documentos\GitHub\ProgramacionAvanzadaG2\AP\AP.MVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
-C:\Users\sergi\OneDrive\Documentos\GitHub\ProgramacionAvanzadaG2\AP\AP.MVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
-C:\Users\sergi\OneDrive\Documentos\GitHub\ProgramacionAvanzadaG2\AP\AP.MVC\bin\roslyn\Microsoft.CSharp.Core.targets
-C:\Users\sergi\OneDrive\Documentos\GitHub\ProgramacionAvanzadaG2\AP\AP.MVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
-C:\Users\sergi\OneDrive\Documentos\GitHub\ProgramacionAvanzadaG2\AP\AP.MVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
-C:\Users\sergi\OneDrive\Documentos\GitHub\ProgramacionAvanzadaG2\AP\AP.MVC\bin\roslyn\Microsoft.Managed.Core.targets
-C:\Users\sergi\OneDrive\Documentos\GitHub\ProgramacionAvanzadaG2\AP\AP.MVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
-C:\Users\sergi\OneDrive\Documentos\GitHub\ProgramacionAvanzadaG2\AP\AP.MVC\bin\roslyn\Microsoft.Win32.Primitives.dll
-C:\Users\sergi\OneDrive\Documentos\GitHub\ProgramacionAvanzadaG2\AP\AP.MVC\bin\roslyn\System.AppContext.dll
-C:\Users\sergi\OneDrive\Documentos\GitHub\ProgramacionAvanzadaG2\AP\AP.MVC\bin\roslyn\System.Collections.Immutable.dll
-C:\Users\sergi\OneDrive\Documentos\GitHub\ProgramacionAvanzadaG2\AP\AP.MVC\bin\roslyn\System.Console.dll
-C:\Users\sergi\OneDrive\Documentos\GitHub\ProgramacionAvanzadaG2\AP\AP.MVC\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
-C:\Users\sergi\OneDrive\Documentos\GitHub\ProgramacionAvanzadaG2\AP\AP.MVC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
-C:\Users\sergi\OneDrive\Documentos\GitHub\ProgramacionAvanzadaG2\AP\AP.MVC\bin\roslyn\System.Diagnostics.StackTrace.dll
-C:\Users\sergi\OneDrive\Documentos\GitHub\ProgramacionAvanzadaG2\AP\AP.MVC\bin\roslyn\System.Globalization.Calendars.dll
-C:\Users\sergi\OneDrive\Documentos\GitHub\ProgramacionAvanzadaG2\AP\AP.MVC\bin\roslyn\System.IO.Compression.dll
-C:\Users\sergi\OneDrive\Documentos\GitHub\ProgramacionAvanzadaG2\AP\AP.MVC\bin\roslyn\System.IO.Compression.ZipFile.dll
-C:\Users\sergi\OneDrive\Documentos\GitHub\ProgramacionAvanzadaG2\AP\AP.MVC\bin\roslyn\System.IO.FileSystem.dll
-C:\Users\sergi\OneDrive\Documentos\GitHub\ProgramacionAvanzadaG2\AP\AP.MVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
-C:\Users\sergi\OneDrive\Documentos\GitHub\ProgramacionAvanzadaG2\AP\AP.MVC\bin\roslyn\System.Net.Http.dll
-C:\Users\sergi\OneDrive\Documentos\GitHub\ProgramacionAvanzadaG2\AP\AP.MVC\bin\roslyn\System.Net.Sockets.dll
-C:\Users\sergi\OneDrive\Documentos\GitHub\ProgramacionAvanzadaG2\AP\AP.MVC\bin\roslyn\System.Reflection.Metadata.dll
-C:\Users\sergi\OneDrive\Documentos\GitHub\ProgramacionAvanzadaG2\AP\AP.MVC\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
-C:\Users\sergi\OneDrive\Documentos\GitHub\ProgramacionAvanzadaG2\AP\AP.MVC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
-C:\Users\sergi\OneDrive\Documentos\GitHub\ProgramacionAvanzadaG2\AP\AP.MVC\bin\roslyn\System.Security.Cryptography.Encoding.dll
-C:\Users\sergi\OneDrive\Documentos\GitHub\ProgramacionAvanzadaG2\AP\AP.MVC\bin\roslyn\System.Security.Cryptography.Primitives.dll
-C:\Users\sergi\OneDrive\Documentos\GitHub\ProgramacionAvanzadaG2\AP\AP.MVC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
-C:\Users\sergi\OneDrive\Documentos\GitHub\ProgramacionAvanzadaG2\AP\AP.MVC\bin\roslyn\System.Text.Encoding.CodePages.dll
-C:\Users\sergi\OneDrive\Documentos\GitHub\ProgramacionAvanzadaG2\AP\AP.MVC\bin\roslyn\System.Threading.Tasks.Extensions.dll
-C:\Users\sergi\OneDrive\Documentos\GitHub\ProgramacionAvanzadaG2\AP\AP.MVC\bin\roslyn\System.ValueTuple.dll
-C:\Users\sergi\OneDrive\Documentos\GitHub\ProgramacionAvanzadaG2\AP\AP.MVC\bin\roslyn\System.Xml.ReaderWriter.dll
-C:\Users\sergi\OneDrive\Documentos\GitHub\ProgramacionAvanzadaG2\AP\AP.MVC\bin\roslyn\System.Xml.XmlDocument.dll
-C:\Users\sergi\OneDrive\Documentos\GitHub\ProgramacionAvanzadaG2\AP\AP.MVC\bin\roslyn\System.Xml.XPath.dll
-C:\Users\sergi\OneDrive\Documentos\GitHub\ProgramacionAvanzadaG2\AP\AP.MVC\bin\roslyn\System.Xml.XPath.XDocument.dll
-C:\Users\sergi\OneDrive\Documentos\GitHub\ProgramacionAvanzadaG2\AP\AP.MVC\bin\roslyn\vbc.exe
-C:\Users\sergi\OneDrive\Documentos\GitHub\ProgramacionAvanzadaG2\AP\AP.MVC\bin\roslyn\vbc.exe.config
-C:\Users\sergi\OneDrive\Documentos\GitHub\ProgramacionAvanzadaG2\AP\AP.MVC\bin\roslyn\vbc.rsp
-C:\Users\sergi\OneDrive\Documentos\GitHub\ProgramacionAvanzadaG2\AP\AP.MVC\bin\roslyn\VBCSCompiler.exe
-C:\Users\sergi\OneDrive\Documentos\GitHub\ProgramacionAvanzadaG2\AP\AP.MVC\bin\roslyn\VBCSCompiler.exe.config
-C:\Users\sergi\OneDrive\Documentos\GitHub\ProgramacionAvanzadaG2\AP\AP.MVC\bin\Antlr3.Runtime.dll
-C:\Users\sergi\OneDrive\Documentos\GitHub\ProgramacionAvanzadaG2\AP\AP.MVC\bin\AP.Core.dll
-C:\Users\sergi\OneDrive\Documentos\GitHub\ProgramacionAvanzadaG2\AP\AP.MVC\bin\AP.Models.dll
-C:\Users\sergi\OneDrive\Documentos\GitHub\ProgramacionAvanzadaG2\AP\AP.MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
-C:\Users\sergi\OneDrive\Documentos\GitHub\ProgramacionAvanzadaG2\AP\AP.MVC\bin\Microsoft.Web.Infrastructure.dll
-C:\Users\sergi\OneDrive\Documentos\GitHub\ProgramacionAvanzadaG2\AP\AP.MVC\bin\Newtonsoft.Json.dll
-C:\Users\sergi\OneDrive\Documentos\GitHub\ProgramacionAvanzadaG2\AP\AP.MVC\bin\System.Web.Helpers.dll
-C:\Users\sergi\OneDrive\Documentos\GitHub\ProgramacionAvanzadaG2\AP\AP.MVC\bin\System.Web.Mvc.dll
-C:\Users\sergi\OneDrive\Documentos\GitHub\ProgramacionAvanzadaG2\AP\AP.MVC\bin\System.Web.Optimization.dll
-C:\Users\sergi\OneDrive\Documentos\GitHub\ProgramacionAvanzadaG2\AP\AP.MVC\bin\System.Web.Razor.dll
-C:\Users\sergi\OneDrive\Documentos\GitHub\ProgramacionAvanzadaG2\AP\AP.MVC\bin\System.Web.WebPages.Deployment.dll
-C:\Users\sergi\OneDrive\Documentos\GitHub\ProgramacionAvanzadaG2\AP\AP.MVC\bin\System.Web.WebPages.dll
-C:\Users\sergi\OneDrive\Documentos\GitHub\ProgramacionAvanzadaG2\AP\AP.MVC\bin\System.Web.WebPages.Razor.dll
-C:\Users\sergi\OneDrive\Documentos\GitHub\ProgramacionAvanzadaG2\AP\AP.MVC\bin\WebGrease.dll
-C:\Users\sergi\OneDrive\Documentos\GitHub\ProgramacionAvanzadaG2\AP\AP.MVC\bin\AP.Data.dll
-C:\Users\sergi\OneDrive\Documentos\GitHub\ProgramacionAvanzadaG2\AP\AP.MVC\bin\AP.Core.pdb
-C:\Users\sergi\OneDrive\Documentos\GitHub\ProgramacionAvanzadaG2\AP\AP.MVC\bin\AP.Models.pdb
-C:\Users\sergi\OneDrive\Documentos\GitHub\ProgramacionAvanzadaG2\AP\AP.MVC\bin\System.Web.Helpers.xml
-C:\Users\sergi\OneDrive\Documentos\GitHub\ProgramacionAvanzadaG2\AP\AP.MVC\bin\System.Web.Mvc.xml
-C:\Users\sergi\OneDrive\Documentos\GitHub\ProgramacionAvanzadaG2\AP\AP.MVC\bin\System.Web.Optimization.xml
-C:\Users\sergi\OneDrive\Documentos\GitHub\ProgramacionAvanzadaG2\AP\AP.MVC\bin\System.Web.Razor.xml
-C:\Users\sergi\OneDrive\Documentos\GitHub\ProgramacionAvanzadaG2\AP\AP.MVC\bin\System.Web.WebPages.xml
-C:\Users\sergi\OneDrive\Documentos\GitHub\ProgramacionAvanzadaG2\AP\AP.MVC\bin\System.Web.WebPages.Deployment.xml
-C:\Users\sergi\OneDrive\Documentos\GitHub\ProgramacionAvanzadaG2\AP\AP.MVC\bin\System.Web.WebPages.Razor.xml
-C:\Users\sergi\OneDrive\Documentos\GitHub\ProgramacionAvanzadaG2\AP\AP.MVC\bin\Newtonsoft.Json.xml
-C:\Users\sergi\OneDrive\Documentos\GitHub\ProgramacionAvanzadaG2\AP\AP.MVC\bin\Antlr3.Runtime.pdb
-C:\Users\sergi\OneDrive\Documentos\GitHub\ProgramacionAvanzadaG2\AP\AP.MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\Users\sergi\OneDrive\Documentos\GitHub\ProgramacionAvanzadaG2\AP\AP.MVC\bin\AP.Data.pdb
-C:\Users\sergi\OneDrive\Documentos\GitHub\ProgramacionAvanzadaG2\AP\AP.MVC\obj\Debug\AP.MVC.csproj.AssemblyReference.cache
-C:\Users\sergi\OneDrive\Documentos\GitHub\ProgramacionAvanzadaG2\AP\AP.MVC\obj\Debug\AP.MVC.csproj.CoreCompileInputs.cache
-C:\Users\sergi\OneDrive\Documentos\GitHub\ProgramacionAvanzadaG2\AP\AP.MVC\obj\Debug\AP.MVC.csproj.Up2Date
-C:\Users\sergi\OneDrive\Documentos\GitHub\ProgramacionAvanzadaG2\AP\AP.MVC\obj\Debug\AP.MVC.dll
-C:\Users\sergi\OneDrive\Documentos\GitHub\ProgramacionAvanzadaG2\AP\AP.MVC\obj\Debug\AP.MVC.pdb
-C:\Users\sergi\OneDrive\Documentos\GitHub\ProgramacionAvanzadaG2\AP\AP.MVC\bin\AP.Core.dll.config
-C:\Users\sergi\OneDrive\Documentos\GitHub\ProgramacionAvanzadaG2\AP\AP.MVC\bin\EntityFramework.dll
-C:\Users\sergi\OneDrive\Documentos\GitHub\ProgramacionAvanzadaG2\AP\AP.MVC\bin\AP.Data.dll.config
-C:\Users\sergi\OneDrive\Documentos\GitHub\ProgramacionAvanzadaG2\AP\AP.MVC\bin\EntityFramework.xml
-C:\Users\sergi\OneDrive\Documentos\GitHub\ProgramacionAvanzadaG2\AP\AP.MVC\bin\EntityFramework.SqlServer.dll
-C:\Users\sergi\OneDrive\Documentos\GitHub\ProgramacionAvanzadaG2\AP\AP.MVC\bin\EntityFramework.SqlServer.xml
-C:\Users\chaco\Documents\Programacion Avanzada\Proyecto\Avance 3 git\AP\AP.MVC\bin\AP.MVC.dll.config
-C:\Users\chaco\Documents\Programacion Avanzada\Proyecto\Avance 3 git\AP\AP.MVC\bin\AP.MVC.dll
-C:\Users\chaco\Documents\Programacion Avanzada\Proyecto\Avance 3 git\AP\AP.MVC\bin\AP.MVC.pdb
-C:\Users\chaco\Documents\Programacion Avanzada\Proyecto\Avance 3 git\AP\AP.MVC\bin\roslyn\csc.exe
-C:\Users\chaco\Documents\Programacion Avanzada\Proyecto\Avance 3 git\AP\AP.MVC\bin\roslyn\csc.exe.config
-C:\Users\chaco\Documents\Programacion Avanzada\Proyecto\Avance 3 git\AP\AP.MVC\bin\roslyn\csc.rsp
-C:\Users\chaco\Documents\Programacion Avanzada\Proyecto\Avance 3 git\AP\AP.MVC\bin\roslyn\csi.exe
-C:\Users\chaco\Documents\Programacion Avanzada\Proyecto\Avance 3 git\AP\AP.MVC\bin\roslyn\csi.exe.config
-C:\Users\chaco\Documents\Programacion Avanzada\Proyecto\Avance 3 git\AP\AP.MVC\bin\roslyn\csi.rsp
-C:\Users\chaco\Documents\Programacion Avanzada\Proyecto\Avance 3 git\AP\AP.MVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
-C:\Users\chaco\Documents\Programacion Avanzada\Proyecto\Avance 3 git\AP\AP.MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
-C:\Users\chaco\Documents\Programacion Avanzada\Proyecto\Avance 3 git\AP\AP.MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
-C:\Users\chaco\Documents\Programacion Avanzada\Proyecto\Avance 3 git\AP\AP.MVC\bin\roslyn\Microsoft.CodeAnalysis.dll
-C:\Users\chaco\Documents\Programacion Avanzada\Proyecto\Avance 3 git\AP\AP.MVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
-C:\Users\chaco\Documents\Programacion Avanzada\Proyecto\Avance 3 git\AP\AP.MVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
-C:\Users\chaco\Documents\Programacion Avanzada\Proyecto\Avance 3 git\AP\AP.MVC\bin\roslyn\Microsoft.CSharp.Core.targets
-C:\Users\chaco\Documents\Programacion Avanzada\Proyecto\Avance 3 git\AP\AP.MVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
-C:\Users\chaco\Documents\Programacion Avanzada\Proyecto\Avance 3 git\AP\AP.MVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
-C:\Users\chaco\Documents\Programacion Avanzada\Proyecto\Avance 3 git\AP\AP.MVC\bin\roslyn\Microsoft.Managed.Core.targets
-C:\Users\chaco\Documents\Programacion Avanzada\Proyecto\Avance 3 git\AP\AP.MVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
-C:\Users\chaco\Documents\Programacion Avanzada\Proyecto\Avance 3 git\AP\AP.MVC\bin\roslyn\Microsoft.Win32.Primitives.dll
-C:\Users\chaco\Documents\Programacion Avanzada\Proyecto\Avance 3 git\AP\AP.MVC\bin\roslyn\System.AppContext.dll
-C:\Users\chaco\Documents\Programacion Avanzada\Proyecto\Avance 3 git\AP\AP.MVC\bin\roslyn\System.Collections.Immutable.dll
-C:\Users\chaco\Documents\Programacion Avanzada\Proyecto\Avance 3 git\AP\AP.MVC\bin\roslyn\System.Console.dll
-C:\Users\chaco\Documents\Programacion Avanzada\Proyecto\Avance 3 git\AP\AP.MVC\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
-C:\Users\chaco\Documents\Programacion Avanzada\Proyecto\Avance 3 git\AP\AP.MVC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
-C:\Users\chaco\Documents\Programacion Avanzada\Proyecto\Avance 3 git\AP\AP.MVC\bin\roslyn\System.Diagnostics.StackTrace.dll
-C:\Users\chaco\Documents\Programacion Avanzada\Proyecto\Avance 3 git\AP\AP.MVC\bin\roslyn\System.Globalization.Calendars.dll
-C:\Users\chaco\Documents\Programacion Avanzada\Proyecto\Avance 3 git\AP\AP.MVC\bin\roslyn\System.IO.Compression.dll
-C:\Users\chaco\Documents\Programacion Avanzada\Proyecto\Avance 3 git\AP\AP.MVC\bin\roslyn\System.IO.Compression.ZipFile.dll
-C:\Users\chaco\Documents\Programacion Avanzada\Proyecto\Avance 3 git\AP\AP.MVC\bin\roslyn\System.IO.FileSystem.dll
-C:\Users\chaco\Documents\Programacion Avanzada\Proyecto\Avance 3 git\AP\AP.MVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
-C:\Users\chaco\Documents\Programacion Avanzada\Proyecto\Avance 3 git\AP\AP.MVC\bin\roslyn\System.Net.Http.dll
-C:\Users\chaco\Documents\Programacion Avanzada\Proyecto\Avance 3 git\AP\AP.MVC\bin\roslyn\System.Net.Sockets.dll
-C:\Users\chaco\Documents\Programacion Avanzada\Proyecto\Avance 3 git\AP\AP.MVC\bin\roslyn\System.Reflection.Metadata.dll
-C:\Users\chaco\Documents\Programacion Avanzada\Proyecto\Avance 3 git\AP\AP.MVC\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
-C:\Users\chaco\Documents\Programacion Avanzada\Proyecto\Avance 3 git\AP\AP.MVC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
-C:\Users\chaco\Documents\Programacion Avanzada\Proyecto\Avance 3 git\AP\AP.MVC\bin\roslyn\System.Security.Cryptography.Encoding.dll
-C:\Users\chaco\Documents\Programacion Avanzada\Proyecto\Avance 3 git\AP\AP.MVC\bin\roslyn\System.Security.Cryptography.Primitives.dll
-C:\Users\chaco\Documents\Programacion Avanzada\Proyecto\Avance 3 git\AP\AP.MVC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
-C:\Users\chaco\Documents\Programacion Avanzada\Proyecto\Avance 3 git\AP\AP.MVC\bin\roslyn\System.Text.Encoding.CodePages.dll
-C:\Users\chaco\Documents\Programacion Avanzada\Proyecto\Avance 3 git\AP\AP.MVC\bin\roslyn\System.Threading.Tasks.Extensions.dll
-C:\Users\chaco\Documents\Programacion Avanzada\Proyecto\Avance 3 git\AP\AP.MVC\bin\roslyn\System.ValueTuple.dll
-C:\Users\chaco\Documents\Programacion Avanzada\Proyecto\Avance 3 git\AP\AP.MVC\bin\roslyn\System.Xml.ReaderWriter.dll
-C:\Users\chaco\Documents\Programacion Avanzada\Proyecto\Avance 3 git\AP\AP.MVC\bin\roslyn\System.Xml.XmlDocument.dll
-C:\Users\chaco\Documents\Programacion Avanzada\Proyecto\Avance 3 git\AP\AP.MVC\bin\roslyn\System.Xml.XPath.dll
-C:\Users\chaco\Documents\Programacion Avanzada\Proyecto\Avance 3 git\AP\AP.MVC\bin\roslyn\System.Xml.XPath.XDocument.dll
-C:\Users\chaco\Documents\Programacion Avanzada\Proyecto\Avance 3 git\AP\AP.MVC\bin\roslyn\vbc.exe
-C:\Users\chaco\Documents\Programacion Avanzada\Proyecto\Avance 3 git\AP\AP.MVC\bin\roslyn\vbc.exe.config
-C:\Users\chaco\Documents\Programacion Avanzada\Proyecto\Avance 3 git\AP\AP.MVC\bin\roslyn\vbc.rsp
-C:\Users\chaco\Documents\Programacion Avanzada\Proyecto\Avance 3 git\AP\AP.MVC\bin\roslyn\VBCSCompiler.exe
-C:\Users\chaco\Documents\Programacion Avanzada\Proyecto\Avance 3 git\AP\AP.MVC\bin\roslyn\VBCSCompiler.exe.config
-C:\Users\chaco\Documents\Programacion Avanzada\Proyecto\Avance 3 git\AP\AP.MVC\bin\Antlr3.Runtime.dll
-C:\Users\chaco\Documents\Programacion Avanzada\Proyecto\Avance 3 git\AP\AP.MVC\bin\AP.Core.dll
-C:\Users\chaco\Documents\Programacion Avanzada\Proyecto\Avance 3 git\AP\AP.MVC\bin\AP.Data.dll
-C:\Users\chaco\Documents\Programacion Avanzada\Proyecto\Avance 3 git\AP\AP.MVC\bin\AP.Models.dll
-C:\Users\chaco\Documents\Programacion Avanzada\Proyecto\Avance 3 git\AP\AP.MVC\bin\EntityFramework.dll
-C:\Users\chaco\Documents\Programacion Avanzada\Proyecto\Avance 3 git\AP\AP.MVC\bin\EntityFramework.SqlServer.dll
-C:\Users\chaco\Documents\Programacion Avanzada\Proyecto\Avance 3 git\AP\AP.MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
-C:\Users\chaco\Documents\Programacion Avanzada\Proyecto\Avance 3 git\AP\AP.MVC\bin\Microsoft.Web.Infrastructure.dll
-C:\Users\chaco\Documents\Programacion Avanzada\Proyecto\Avance 3 git\AP\AP.MVC\bin\Newtonsoft.Json.dll
-C:\Users\chaco\Documents\Programacion Avanzada\Proyecto\Avance 3 git\AP\AP.MVC\bin\System.Web.Helpers.dll
-C:\Users\chaco\Documents\Programacion Avanzada\Proyecto\Avance 3 git\AP\AP.MVC\bin\System.Web.Mvc.dll
-C:\Users\chaco\Documents\Programacion Avanzada\Proyecto\Avance 3 git\AP\AP.MVC\bin\System.Web.Optimization.dll
-C:\Users\chaco\Documents\Programacion Avanzada\Proyecto\Avance 3 git\AP\AP.MVC\bin\System.Web.Razor.dll
-C:\Users\chaco\Documents\Programacion Avanzada\Proyecto\Avance 3 git\AP\AP.MVC\bin\System.Web.WebPages.Deployment.dll
-C:\Users\chaco\Documents\Programacion Avanzada\Proyecto\Avance 3 git\AP\AP.MVC\bin\System.Web.WebPages.dll
-C:\Users\chaco\Documents\Programacion Avanzada\Proyecto\Avance 3 git\AP\AP.MVC\bin\System.Web.WebPages.Razor.dll
-C:\Users\chaco\Documents\Programacion Avanzada\Proyecto\Avance 3 git\AP\AP.MVC\bin\WebGrease.dll
-C:\Users\chaco\Documents\Programacion Avanzada\Proyecto\Avance 3 git\AP\AP.MVC\bin\AP.Core.pdb
-C:\Users\chaco\Documents\Programacion Avanzada\Proyecto\Avance 3 git\AP\AP.MVC\bin\AP.Core.dll.config
-C:\Users\chaco\Documents\Programacion Avanzada\Proyecto\Avance 3 git\AP\AP.MVC\bin\AP.Data.pdb
-C:\Users\chaco\Documents\Programacion Avanzada\Proyecto\Avance 3 git\AP\AP.MVC\bin\AP.Data.dll.config
-C:\Users\chaco\Documents\Programacion Avanzada\Proyecto\Avance 3 git\AP\AP.MVC\bin\AP.Models.pdb
-C:\Users\chaco\Documents\Programacion Avanzada\Proyecto\Avance 3 git\AP\AP.MVC\bin\EntityFramework.xml
-C:\Users\chaco\Documents\Programacion Avanzada\Proyecto\Avance 3 git\AP\AP.MVC\bin\EntityFramework.SqlServer.xml
-C:\Users\chaco\Documents\Programacion Avanzada\Proyecto\Avance 3 git\AP\AP.MVC\bin\System.Web.Helpers.xml
-C:\Users\chaco\Documents\Programacion Avanzada\Proyecto\Avance 3 git\AP\AP.MVC\bin\System.Web.Mvc.xml
-C:\Users\chaco\Documents\Programacion Avanzada\Proyecto\Avance 3 git\AP\AP.MVC\bin\System.Web.Optimization.xml
-C:\Users\chaco\Documents\Programacion Avanzada\Proyecto\Avance 3 git\AP\AP.MVC\bin\System.Web.Razor.xml
-C:\Users\chaco\Documents\Programacion Avanzada\Proyecto\Avance 3 git\AP\AP.MVC\bin\System.Web.WebPages.xml
-C:\Users\chaco\Documents\Programacion Avanzada\Proyecto\Avance 3 git\AP\AP.MVC\bin\System.Web.WebPages.Deployment.xml
-C:\Users\chaco\Documents\Programacion Avanzada\Proyecto\Avance 3 git\AP\AP.MVC\bin\System.Web.WebPages.Razor.xml
-C:\Users\chaco\Documents\Programacion Avanzada\Proyecto\Avance 3 git\AP\AP.MVC\bin\Newtonsoft.Json.xml
-C:\Users\chaco\Documents\Programacion Avanzada\Proyecto\Avance 3 git\AP\AP.MVC\bin\Antlr3.Runtime.pdb
-C:\Users\chaco\Documents\Programacion Avanzada\Proyecto\Avance 3 git\AP\AP.MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\Users\chaco\Documents\Programacion Avanzada\Proyecto\Avance 3 git\AP\AP.MVC\obj\Debug\AP.MVC.csproj.AssemblyReference.cache
-C:\Users\chaco\Documents\Programacion Avanzada\Proyecto\Avance 3 git\AP\AP.MVC\obj\Debug\AP.MVC.csproj.CoreCompileInputs.cache
-C:\Users\chaco\Documents\Programacion Avanzada\Proyecto\Avance 3 git\AP\AP.MVC\obj\Debug\AP.MVC.csproj.Up2Date
-C:\Users\chaco\Documents\Programacion Avanzada\Proyecto\Avance 3 git\AP\AP.MVC\obj\Debug\AP.MVC.dll
-C:\Users\chaco\Documents\Programacion Avanzada\Proyecto\Avance 3 git\AP\AP.MVC\obj\Debug\AP.MVC.pdb
+D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\ProgramacionAvanzadaG2\AP\AP.MVC\bin\AP.MVC.dll.config
+D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\ProgramacionAvanzadaG2\AP\AP.MVC\bin\AP.MVC.dll
+D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\ProgramacionAvanzadaG2\AP\AP.MVC\bin\AP.MVC.pdb
+D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\ProgramacionAvanzadaG2\AP\AP.MVC\bin\roslyn\csc.exe
+D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\ProgramacionAvanzadaG2\AP\AP.MVC\bin\roslyn\csc.exe.config
+D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\ProgramacionAvanzadaG2\AP\AP.MVC\bin\roslyn\csc.rsp
+D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\ProgramacionAvanzadaG2\AP\AP.MVC\bin\roslyn\csi.exe
+D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\ProgramacionAvanzadaG2\AP\AP.MVC\bin\roslyn\csi.exe.config
+D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\ProgramacionAvanzadaG2\AP\AP.MVC\bin\roslyn\csi.rsp
+D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\ProgramacionAvanzadaG2\AP\AP.MVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\ProgramacionAvanzadaG2\AP\AP.MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\ProgramacionAvanzadaG2\AP\AP.MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\ProgramacionAvanzadaG2\AP\AP.MVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\ProgramacionAvanzadaG2\AP\AP.MVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\ProgramacionAvanzadaG2\AP\AP.MVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\ProgramacionAvanzadaG2\AP\AP.MVC\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\ProgramacionAvanzadaG2\AP\AP.MVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\ProgramacionAvanzadaG2\AP\AP.MVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\ProgramacionAvanzadaG2\AP\AP.MVC\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\ProgramacionAvanzadaG2\AP\AP.MVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\ProgramacionAvanzadaG2\AP\AP.MVC\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\ProgramacionAvanzadaG2\AP\AP.MVC\bin\roslyn\System.AppContext.dll
+D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\ProgramacionAvanzadaG2\AP\AP.MVC\bin\roslyn\System.Collections.Immutable.dll
+D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\ProgramacionAvanzadaG2\AP\AP.MVC\bin\roslyn\System.Console.dll
+D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\ProgramacionAvanzadaG2\AP\AP.MVC\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\ProgramacionAvanzadaG2\AP\AP.MVC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\ProgramacionAvanzadaG2\AP\AP.MVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\ProgramacionAvanzadaG2\AP\AP.MVC\bin\roslyn\System.Globalization.Calendars.dll
+D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\ProgramacionAvanzadaG2\AP\AP.MVC\bin\roslyn\System.IO.Compression.dll
+D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\ProgramacionAvanzadaG2\AP\AP.MVC\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\ProgramacionAvanzadaG2\AP\AP.MVC\bin\roslyn\System.IO.FileSystem.dll
+D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\ProgramacionAvanzadaG2\AP\AP.MVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\ProgramacionAvanzadaG2\AP\AP.MVC\bin\roslyn\System.Net.Http.dll
+D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\ProgramacionAvanzadaG2\AP\AP.MVC\bin\roslyn\System.Net.Sockets.dll
+D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\ProgramacionAvanzadaG2\AP\AP.MVC\bin\roslyn\System.Reflection.Metadata.dll
+D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\ProgramacionAvanzadaG2\AP\AP.MVC\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\ProgramacionAvanzadaG2\AP\AP.MVC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\ProgramacionAvanzadaG2\AP\AP.MVC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\ProgramacionAvanzadaG2\AP\AP.MVC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\ProgramacionAvanzadaG2\AP\AP.MVC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\ProgramacionAvanzadaG2\AP\AP.MVC\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\ProgramacionAvanzadaG2\AP\AP.MVC\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\ProgramacionAvanzadaG2\AP\AP.MVC\bin\roslyn\System.ValueTuple.dll
+D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\ProgramacionAvanzadaG2\AP\AP.MVC\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\ProgramacionAvanzadaG2\AP\AP.MVC\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\ProgramacionAvanzadaG2\AP\AP.MVC\bin\roslyn\System.Xml.XPath.dll
+D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\ProgramacionAvanzadaG2\AP\AP.MVC\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\ProgramacionAvanzadaG2\AP\AP.MVC\bin\roslyn\vbc.exe
+D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\ProgramacionAvanzadaG2\AP\AP.MVC\bin\roslyn\vbc.exe.config
+D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\ProgramacionAvanzadaG2\AP\AP.MVC\bin\roslyn\vbc.rsp
+D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\ProgramacionAvanzadaG2\AP\AP.MVC\bin\roslyn\VBCSCompiler.exe
+D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\ProgramacionAvanzadaG2\AP\AP.MVC\bin\roslyn\VBCSCompiler.exe.config
+D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\ProgramacionAvanzadaG2\AP\AP.MVC\bin\Antlr3.Runtime.dll
+D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\ProgramacionAvanzadaG2\AP\AP.MVC\bin\AP.Core.dll
+D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\ProgramacionAvanzadaG2\AP\AP.MVC\bin\AP.Data.dll
+D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\ProgramacionAvanzadaG2\AP\AP.MVC\bin\AP.Models.dll
+D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\ProgramacionAvanzadaG2\AP\AP.MVC\bin\EntityFramework.dll
+D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\ProgramacionAvanzadaG2\AP\AP.MVC\bin\EntityFramework.SqlServer.dll
+D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\ProgramacionAvanzadaG2\AP\AP.MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\ProgramacionAvanzadaG2\AP\AP.MVC\bin\Microsoft.Web.Infrastructure.dll
+D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\ProgramacionAvanzadaG2\AP\AP.MVC\bin\Newtonsoft.Json.dll
+D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\ProgramacionAvanzadaG2\AP\AP.MVC\bin\System.Web.Helpers.dll
+D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\ProgramacionAvanzadaG2\AP\AP.MVC\bin\System.Web.Mvc.dll
+D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\ProgramacionAvanzadaG2\AP\AP.MVC\bin\System.Web.Optimization.dll
+D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\ProgramacionAvanzadaG2\AP\AP.MVC\bin\System.Web.Razor.dll
+D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\ProgramacionAvanzadaG2\AP\AP.MVC\bin\System.Web.WebPages.Deployment.dll
+D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\ProgramacionAvanzadaG2\AP\AP.MVC\bin\System.Web.WebPages.dll
+D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\ProgramacionAvanzadaG2\AP\AP.MVC\bin\System.Web.WebPages.Razor.dll
+D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\ProgramacionAvanzadaG2\AP\AP.MVC\bin\WebGrease.dll
+D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\ProgramacionAvanzadaG2\AP\AP.MVC\bin\AP.Core.pdb
+D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\ProgramacionAvanzadaG2\AP\AP.MVC\bin\AP.Core.dll.config
+D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\ProgramacionAvanzadaG2\AP\AP.MVC\bin\AP.Data.pdb
+D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\ProgramacionAvanzadaG2\AP\AP.MVC\bin\AP.Data.dll.config
+D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\ProgramacionAvanzadaG2\AP\AP.MVC\bin\AP.Models.pdb
+D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\ProgramacionAvanzadaG2\AP\AP.MVC\bin\EntityFramework.xml
+D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\ProgramacionAvanzadaG2\AP\AP.MVC\bin\EntityFramework.SqlServer.xml
+D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\ProgramacionAvanzadaG2\AP\AP.MVC\bin\System.Web.Helpers.xml
+D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\ProgramacionAvanzadaG2\AP\AP.MVC\bin\System.Web.Mvc.xml
+D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\ProgramacionAvanzadaG2\AP\AP.MVC\bin\System.Web.Optimization.xml
+D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\ProgramacionAvanzadaG2\AP\AP.MVC\bin\System.Web.Razor.xml
+D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\ProgramacionAvanzadaG2\AP\AP.MVC\bin\System.Web.WebPages.xml
+D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\ProgramacionAvanzadaG2\AP\AP.MVC\bin\System.Web.WebPages.Deployment.xml
+D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\ProgramacionAvanzadaG2\AP\AP.MVC\bin\System.Web.WebPages.Razor.xml
+D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\ProgramacionAvanzadaG2\AP\AP.MVC\bin\Newtonsoft.Json.xml
+D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\ProgramacionAvanzadaG2\AP\AP.MVC\bin\Antlr3.Runtime.pdb
+D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\ProgramacionAvanzadaG2\AP\AP.MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\ProgramacionAvanzadaG2\AP\AP.MVC\obj\Debug\AP.MVC.csproj.AssemblyReference.cache
+D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\ProgramacionAvanzadaG2\AP\AP.MVC\obj\Debug\AP.MVC.csproj.CoreCompileInputs.cache
+D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\ProgramacionAvanzadaG2\AP\AP.MVC\obj\Debug\AP.MVC.csproj.Up2Date
+D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\ProgramacionAvanzadaG2\AP\AP.MVC\obj\Debug\AP.MVC.dll
+D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\ProgramacionAvanzadaG2\AP\AP.MVC\obj\Debug\AP.MVC.pdb

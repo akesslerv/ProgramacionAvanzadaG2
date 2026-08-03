@@ -62,7 +62,8 @@ using System.Linq;
 if (!loader.IsLazyLoadingEnabled(container))
 {
 #>
-        this.Configuration.LazyLoadingEnabled = false;
+        this.Configuration.LazyLoadingEnabled = true;
+        this.Configuration.ProxyCreationEnabled = true;
 <#
 }
 

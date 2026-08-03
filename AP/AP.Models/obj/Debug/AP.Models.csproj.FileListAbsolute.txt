@@ -22,3 +22,9 @@ C:\Users\chaco\Documents\Programacion Avanzada\Proyecto\Avance 3 git\AP\AP.Model
 C:\Users\chaco\Documents\Programacion Avanzada\Proyecto\Avance 3 git\AP\AP.Models\obj\Debug\AP.Models.csproj.CoreCompileInputs.cache
 C:\Users\chaco\Documents\Programacion Avanzada\Proyecto\Avance 3 git\AP\AP.Models\obj\Debug\AP.Models.dll
 C:\Users\chaco\Documents\Programacion Avanzada\Proyecto\Avance 3 git\AP\AP.Models\obj\Debug\AP.Models.pdb
+D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\ProgramacionAvanzadaG2\AP\AP.Models\bin\Debug\AP.Models.dll
+D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\ProgramacionAvanzadaG2\AP\AP.Models\bin\Debug\AP.Models.pdb
+D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\ProgramacionAvanzadaG2\AP\AP.Models\obj\Debug\AP.Models.csproj.AssemblyReference.cache
+D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\ProgramacionAvanzadaG2\AP\AP.Models\obj\Debug\AP.Models.csproj.CoreCompileInputs.cache
+D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\ProgramacionAvanzadaG2\AP\AP.Models\obj\Debug\AP.Models.dll
+D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\ProgramacionAvanzadaG2\AP\AP.Models\obj\Debug\AP.Models.pdb

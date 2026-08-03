@@ -102,3 +102,44 @@ C:\Users\chaco\Documents\Programacion Avanzada\Proyecto\Avance 3 git\AP\AP.Core\
 C:\Users\chaco\Documents\Programacion Avanzada\Proyecto\Avance 3 git\AP\AP.Core\obj\Debug\AP.Core.csproj.Up2Date
 C:\Users\chaco\Documents\Programacion Avanzada\Proyecto\Avance 3 git\AP\AP.Core\obj\Debug\AP.Core.dll
 C:\Users\chaco\Documents\Programacion Avanzada\Proyecto\Avance 3 git\AP\AP.Core\obj\Debug\AP.Core.pdb
+D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\ProgramacionAvanzadaG2\AP\AP.Core\bin\Debug\AP.Core.dll.config
+D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\ProgramacionAvanzadaG2\AP\AP.Core\bin\Debug\AP.Core.dll
+D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\ProgramacionAvanzadaG2\AP\AP.Core\bin\Debug\AP.Core.pdb
+D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\ProgramacionAvanzadaG2\AP\AP.Core\bin\Debug\AP.Data.dll
+D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\ProgramacionAvanzadaG2\AP\AP.Core\bin\Debug\AP.Models.dll
+D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\ProgramacionAvanzadaG2\AP\AP.Core\bin\Debug\FParsec.dll
+D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\ProgramacionAvanzadaG2\AP\AP.Core\bin\Debug\FParsecCS.dll
+D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\ProgramacionAvanzadaG2\AP\AP.Core\bin\Debug\FSharp.Core.dll
+D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\ProgramacionAvanzadaG2\AP\AP.Core\bin\Debug\MathNet.Numerics.dll
+D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\ProgramacionAvanzadaG2\AP\AP.Core\bin\Debug\MathNet.Numerics.FSharp.dll
+D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\ProgramacionAvanzadaG2\AP\AP.Core\bin\Debug\MathNet.Symbolics.dll
+D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\ProgramacionAvanzadaG2\AP\AP.Core\bin\Debug\EntityFramework.dll
+D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\ProgramacionAvanzadaG2\AP\AP.Core\bin\Debug\AP.Data.pdb
+D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\ProgramacionAvanzadaG2\AP\AP.Core\bin\Debug\AP.Data.dll.config
+D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\ProgramacionAvanzadaG2\AP\AP.Core\bin\Debug\AP.Models.pdb
+D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\ProgramacionAvanzadaG2\AP\AP.Core\bin\Debug\FParsec.xml
+D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\ProgramacionAvanzadaG2\AP\AP.Core\bin\Debug\FParsecCS.xml
+D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\ProgramacionAvanzadaG2\AP\AP.Core\bin\Debug\FSharp.Core.xml
+D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\ProgramacionAvanzadaG2\AP\AP.Core\bin\Debug\MathNet.Numerics.xml
+D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\ProgramacionAvanzadaG2\AP\AP.Core\bin\Debug\MathNet.Numerics.FSharp.xml
+D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\ProgramacionAvanzadaG2\AP\AP.Core\bin\Debug\MathNet.Symbolics.xml
+D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\ProgramacionAvanzadaG2\AP\AP.Core\bin\Debug\EntityFramework.xml
+D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\ProgramacionAvanzadaG2\AP\AP.Core\bin\Debug\cs\FSharp.Core.resources.dll
+D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\ProgramacionAvanzadaG2\AP\AP.Core\bin\Debug\de\FSharp.Core.resources.dll
+D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\ProgramacionAvanzadaG2\AP\AP.Core\bin\Debug\en\FSharp.Core.resources.dll
+D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\ProgramacionAvanzadaG2\AP\AP.Core\bin\Debug\es\FSharp.Core.resources.dll
+D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\ProgramacionAvanzadaG2\AP\AP.Core\bin\Debug\fr\FSharp.Core.resources.dll
+D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\ProgramacionAvanzadaG2\AP\AP.Core\bin\Debug\it\FSharp.Core.resources.dll
+D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\ProgramacionAvanzadaG2\AP\AP.Core\bin\Debug\ja\FSharp.Core.resources.dll
+D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\ProgramacionAvanzadaG2\AP\AP.Core\bin\Debug\ko\FSharp.Core.resources.dll
+D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\ProgramacionAvanzadaG2\AP\AP.Core\bin\Debug\pl\FSharp.Core.resources.dll
+D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\ProgramacionAvanzadaG2\AP\AP.Core\bin\Debug\pt-BR\FSharp.Core.resources.dll
+D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\ProgramacionAvanzadaG2\AP\AP.Core\bin\Debug\ru\FSharp.Core.resources.dll
+D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\ProgramacionAvanzadaG2\AP\AP.Core\bin\Debug\tr\FSharp.Core.resources.dll
+D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\ProgramacionAvanzadaG2\AP\AP.Core\bin\Debug\zh-Hans\FSharp.Core.resources.dll
+D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\ProgramacionAvanzadaG2\AP\AP.Core\bin\Debug\zh-Hant\FSharp.Core.resources.dll
+D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\ProgramacionAvanzadaG2\AP\AP.Core\obj\Debug\AP.Core.csproj.AssemblyReference.cache
+D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\ProgramacionAvanzadaG2\AP\AP.Core\obj\Debug\AP.Core.csproj.CoreCompileInputs.cache
+D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\ProgramacionAvanzadaG2\AP\AP.Core\obj\Debug\AP.Core.csproj.Up2Date
+D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\ProgramacionAvanzadaG2\AP\AP.Core\obj\Debug\AP.Core.dll
+D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\ProgramacionAvanzadaG2\AP\AP.Core\obj\Debug\AP.Core.pdb

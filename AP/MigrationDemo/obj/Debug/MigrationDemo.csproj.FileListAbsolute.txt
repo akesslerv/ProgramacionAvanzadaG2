@@ -1,0 +1,14 @@
+D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\ProgramacionAvanzadaG2\AP\MigrationDemo\bin\Debug\MigrationDemo.dll.config
+D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\ProgramacionAvanzadaG2\AP\MigrationDemo\bin\Debug\MigrationDemo.dll
+D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\ProgramacionAvanzadaG2\AP\MigrationDemo\bin\Debug\MigrationDemo.pdb
+D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\ProgramacionAvanzadaG2\AP\MigrationDemo\bin\Debug\EntityFramework.dll
+D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\ProgramacionAvanzadaG2\AP\MigrationDemo\bin\Debug\EntityFramework.SqlServer.dll
+D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\ProgramacionAvanzadaG2\AP\MigrationDemo\bin\Debug\EntityFramework.xml
+D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\ProgramacionAvanzadaG2\AP\MigrationDemo\bin\Debug\EntityFramework.SqlServer.xml
+D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\ProgramacionAvanzadaG2\AP\MigrationDemo\obj\Debug\MigrationDemo.csproj.AssemblyReference.cache
+D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\ProgramacionAvanzadaG2\AP\MigrationDemo\obj\Debug\MigrationDemo.csproj.CoreCompileInputs.cache
+D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\ProgramacionAvanzadaG2\AP\MigrationDemo\obj\Debug\Migratio.A19AB571.Up2Date
+D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\ProgramacionAvanzadaG2\AP\MigrationDemo\obj\Debug\MigrationDemo.dll
+D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\ProgramacionAvanzadaG2\AP\MigrationDemo\obj\Debug\MigrationDemo.pdb
+D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\ProgramacionAvanzadaG2\AP\MigrationDemo\obj\Debug\MigrationDemo.Migrations.InitialCreate.resources
+D:\Universidad Fidelitas\Cuatri II - 2026\Programación Avanzada\Proyecto\ProgramacionAvanzadaG2\AP\MigrationDemo\obj\Debug\MigrationDemo.csproj.GenerateResource.cache

@@ -44,6 +44,7 @@
     <Compile Include="Entities\GameQuestion.cs" />
     <Compile Include="Entities\GameState.cs" />
     <Compile Include="Entities\Puzzle.cs" />
+    <Compile Include="Entities\RankingViewModel.cs" />
     <Compile Include="Entities\User.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

@@ -1,30 +1,90 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\chaco\\Documents\\Programacion Avanzada\\Proyecto\\Avance 3 git\\AP\\",
+  "WorkspaceRootPath": "D:\\Universidad Fidelitas\\Cuatri II - 2026\\Programaci\u00F3n Avanzada\\Proyecto\\ProgramacionAvanzadaG2\\AP\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AC370D75-F352-4060-B257-B89543773DB2}|AP.Data\\AP.Data.csproj|c:\\users\\chaco\\documents\\programacion avanzada\\proyecto\\avance 3 git\\ap\\ap.data\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{AC370D75-F352-4060-B257-B89543773DB2}|AP.Data\\AP.Data.csproj|solutionrelative:ap.data\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{23CE401D-C927-400E-9D7F-2A016CB57FA7}|AP.MVC\\AP.MVC.csproj|d:\\universidad fidelitas\\cuatri ii - 2026\\programaci\u00F3n avanzada\\proyecto\\programacionavanzadag2\\ap\\ap.mvc\\views\\ranking\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{23CE401D-C927-400E-9D7F-2A016CB57FA7}|AP.MVC\\AP.MVC.csproj|solutionrelative:ap.mvc\\views\\ranking\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AC370D75-F352-4060-B257-B89543773DB2}|AP.Data\\AP.Data.csproj|c:\\users\\chaco\\documents\\programacion avanzada\\proyecto\\avance 3 git\\ap\\ap.data\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{23CE401D-C927-400E-9D7F-2A016CB57FA7}|AP.MVC\\AP.MVC.csproj|d:\\universidad fidelitas\\cuatri ii - 2026\\programaci\u00F3n avanzada\\proyecto\\programacionavanzadag2\\ap\\ap.mvc\\controllers\\rankingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23CE401D-C927-400E-9D7F-2A016CB57FA7}|AP.MVC\\AP.MVC.csproj|solutionrelative:ap.mvc\\controllers\\rankingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23CE401D-C927-400E-9D7F-2A016CB57FA7}|AP.MVC\\AP.MVC.csproj|d:\\universidad fidelitas\\cuatri ii - 2026\\programaci\u00F3n avanzada\\proyecto\\programacionavanzadag2\\ap\\ap.mvc\\views\\ranking\\optimized.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{23CE401D-C927-400E-9D7F-2A016CB57FA7}|AP.MVC\\AP.MVC.csproj|solutionrelative:ap.mvc\\views\\ranking\\optimized.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC370D75-F352-4060-B257-B89543773DB2}|AP.Data\\AP.Data.csproj|d:\\universidad fidelitas\\cuatri ii - 2026\\programaci\u00F3n avanzada\\proyecto\\programacionavanzadag2\\ap\\ap.data\\repositories\\rankingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC370D75-F352-4060-B257-B89543773DB2}|AP.Data\\AP.Data.csproj|solutionrelative:ap.data\\repositories\\rankingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC370D75-F352-4060-B257-B89543773DB2}|AP.Data\\AP.Data.csproj|d:\\universidad fidelitas\\cuatri ii - 2026\\programaci\u00F3n avanzada\\proyecto\\programacionavanzadag2\\ap\\ap.data\\repositories\\rankingoptimizedrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC370D75-F352-4060-B257-B89543773DB2}|AP.Data\\AP.Data.csproj|solutionrelative:ap.data\\repositories\\rankingoptimizedrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86E4843A-7D94-46D5-BF41-DF70E36631B5}|AP.Models\\AP.Models.csproj|d:\\universidad fidelitas\\cuatri ii - 2026\\programaci\u00F3n avanzada\\proyecto\\programacionavanzadag2\\ap\\ap.models\\entities\\rankingviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86E4843A-7D94-46D5-BF41-DF70E36631B5}|AP.Models\\AP.Models.csproj|solutionrelative:ap.models\\entities\\rankingviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86E4843A-7D94-46D5-BF41-DF70E36631B5}|AP.Models\\AP.Models.csproj|d:\\universidad fidelitas\\cuatri ii - 2026\\programaci\u00F3n avanzada\\proyecto\\programacionavanzadag2\\ap\\ap.models\\entities\\puzzle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86E4843A-7D94-46D5-BF41-DF70E36631B5}|AP.Models\\AP.Models.csproj|solutionrelative:ap.models\\entities\\puzzle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC370D75-F352-4060-B257-B89543773DB2}|AP.Data\\AP.Data.csproj|d:\\universidad fidelitas\\cuatri ii - 2026\\programaci\u00F3n avanzada\\proyecto\\programacionavanzadag2\\ap\\ap.data\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AC370D75-F352-4060-B257-B89543773DB2}|AP.Data\\AP.Data.csproj|solutionrelative:ap.data\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{23CE401D-C927-400E-9D7F-2A016CB57FA7}|AP.MVC\\AP.MVC.csproj|c:\\users\\chaco\\documents\\programacion avanzada\\proyecto\\avance 3 git\\ap\\ap.mvc\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{23CE401D-C927-400E-9D7F-2A016CB57FA7}|AP.MVC\\AP.MVC.csproj|solutionrelative:ap.mvc\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{AC370D75-F352-4060-B257-B89543773DB2}|AP.Data\\AP.Data.csproj|d:\\universidad fidelitas\\cuatri ii - 2026\\programaci\u00F3n avanzada\\proyecto\\programacionavanzadag2\\ap\\ap.data\\scores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC370D75-F352-4060-B257-B89543773DB2}|AP.Data\\AP.Data.csproj|solutionrelative:ap.data\\scores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{23CE401D-C927-400E-9D7F-2A016CB57FA7}|AP.MVC\\AP.MVC.csproj|c:\\users\\chaco\\documents\\programacion avanzada\\proyecto\\avance 3 git\\ap\\ap.mvc\\views\\login\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{23CE401D-C927-400E-9D7F-2A016CB57FA7}|AP.MVC\\AP.MVC.csproj|solutionrelative:ap.mvc\\views\\login\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{AC370D75-F352-4060-B257-B89543773DB2}|AP.Data\\AP.Data.csproj|d:\\universidad fidelitas\\cuatri ii - 2026\\programaci\u00F3n avanzada\\proyecto\\programacionavanzadag2\\ap\\ap.data\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC370D75-F352-4060-B257-B89543773DB2}|AP.Data\\AP.Data.csproj|solutionrelative:ap.data\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{23CE401D-C927-400E-9D7F-2A016CB57FA7}|AP.MVC\\AP.MVC.csproj|c:\\users\\chaco\\documents\\programacion avanzada\\proyecto\\avance 3 git\\ap\\ap.mvc\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{23CE401D-C927-400E-9D7F-2A016CB57FA7}|AP.MVC\\AP.MVC.csproj|solutionrelative:ap.mvc\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AC370D75-F352-4060-B257-B89543773DB2}|AP.Data\\AP.Data.csproj|d:\\universidad fidelitas\\cuatri ii - 2026\\programaci\u00F3n avanzada\\proyecto\\programacionavanzadag2\\ap\\ap.data\\mathpuzzlemodel.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC370D75-F352-4060-B257-B89543773DB2}|AP.Data\\AP.Data.csproj|solutionrelative:ap.data\\mathpuzzlemodel.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D6C07516-A880-40E4-9224-21EC0A1A949C}|AP.Core\\AP.Core.csproj|c:\\users\\chaco\\documents\\programacion avanzada\\proyecto\\avance 3 git\\ap\\ap.core\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D6C07516-A880-40E4-9224-21EC0A1A949C}|AP.Core\\AP.Core.csproj|solutionrelative:ap.core\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AC370D75-F352-4060-B257-B89543773DB2}|AP.Data\\AP.Data.csproj|d:\\universidad fidelitas\\cuatri ii - 2026\\programaci\u00F3n avanzada\\proyecto\\programacionavanzadag2\\ap\\ap.data\\mathpuzzlemodel.edmx.diagram||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{AC370D75-F352-4060-B257-B89543773DB2}|AP.Data\\AP.Data.csproj|solutionrelative:ap.data\\mathpuzzlemodel.edmx.diagram||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC370D75-F352-4060-B257-B89543773DB2}|AP.Data\\AP.Data.csproj|d:\\universidad fidelitas\\cuatri ii - 2026\\programaci\u00F3n avanzada\\proyecto\\programacionavanzadag2\\ap\\ap.data\\mathpuzzlemodel.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC370D75-F352-4060-B257-B89543773DB2}|AP.Data\\AP.Data.csproj|solutionrelative:ap.data\\mathpuzzlemodel.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC370D75-F352-4060-B257-B89543773DB2}|AP.Data\\AP.Data.csproj|d:\\universidad fidelitas\\cuatri ii - 2026\\programaci\u00F3n avanzada\\proyecto\\programacionavanzadag2\\ap\\ap.data\\mathpuzzlemodel.context.tt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{AC370D75-F352-4060-B257-B89543773DB2}|AP.Data\\AP.Data.csproj|solutionrelative:ap.data\\mathpuzzlemodel.context.tt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86E4843A-7D94-46D5-BF41-DF70E36631B5}|AP.Models\\AP.Models.csproj|d:\\universidad fidelitas\\cuatri ii - 2026\\programaci\u00F3n avanzada\\proyecto\\programacionavanzadag2\\ap\\ap.models\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86E4843A-7D94-46D5-BF41-DF70E36631B5}|AP.Models\\AP.Models.csproj|solutionrelative:ap.models\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86E4843A-7D94-46D5-BF41-DF70E36631B5}|AP.Models\\AP.Models.csproj|d:\\universidad fidelitas\\cuatri ii - 2026\\programaci\u00F3n avanzada\\proyecto\\programacionavanzadag2\\ap\\ap.models\\entities\\gamestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86E4843A-7D94-46D5-BF41-DF70E36631B5}|AP.Models\\AP.Models.csproj|solutionrelative:ap.models\\entities\\gamestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA7D41B4-E7FA-48D5-BF26-A668C817B5D8}|MigrationDemo\\MigrationDemo.csproj|d:\\universidad fidelitas\\cuatri ii - 2026\\programaci\u00F3n avanzada\\proyecto\\programacionavanzadag2\\ap\\migrationdemo\\migrations\\202608031707379_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA7D41B4-E7FA-48D5-BF26-A668C817B5D8}|MigrationDemo\\MigrationDemo.csproj|solutionrelative:migrationdemo\\migrations\\202608031707379_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA7D41B4-E7FA-48D5-BF26-A668C817B5D8}|MigrationDemo\\MigrationDemo.csproj|d:\\universidad fidelitas\\cuatri ii - 2026\\programaci\u00F3n avanzada\\proyecto\\programacionavanzadag2\\ap\\migrationdemo\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA7D41B4-E7FA-48D5-BF26-A668C817B5D8}|MigrationDemo\\MigrationDemo.csproj|solutionrelative:migrationdemo\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA7D41B4-E7FA-48D5-BF26-A668C817B5D8}|MigrationDemo\\MigrationDemo.csproj|d:\\universidad fidelitas\\cuatri ii - 2026\\programaci\u00F3n avanzada\\proyecto\\programacionavanzadag2\\ap\\migrationdemo\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA7D41B4-E7FA-48D5-BF26-A668C817B5D8}|MigrationDemo\\MigrationDemo.csproj|solutionrelative:migrationdemo\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA7D41B4-E7FA-48D5-BF26-A668C817B5D8}|MigrationDemo\\MigrationDemo.csproj|d:\\universidad fidelitas\\cuatri ii - 2026\\programaci\u00F3n avanzada\\proyecto\\programacionavanzadag2\\ap\\migrationdemo\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{BA7D41B4-E7FA-48D5-BF26-A668C817B5D8}|MigrationDemo\\MigrationDemo.csproj|solutionrelative:migrationdemo\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA7D41B4-E7FA-48D5-BF26-A668C817B5D8}|MigrationDemo\\MigrationDemo.csproj|d:\\universidad fidelitas\\cuatri ii - 2026\\programaci\u00F3n avanzada\\proyecto\\programacionavanzadag2\\ap\\migrationdemo\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA7D41B4-E7FA-48D5-BF26-A668C817B5D8}|MigrationDemo\\MigrationDemo.csproj|solutionrelative:migrationdemo\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,15 +94,11 @@
       "DocumentGroups": [
         {
           "DockedHeight": 283,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{a34b1c5d-6d37-4a0c-a8b0-99f8e8158b48}"
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             },
             {
               "$type": "Bookmark",
@@ -54,88 +110,283 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "App.Config",
-              "DocumentMoniker": "C:\\Users\\chaco\\Documents\\Programacion Avanzada\\Proyecto\\Avance 3 git\\AP\\AP.Data\\App.Config",
-              "RelativeDocumentMoniker": "AP.Data\\App.Config",
-              "ToolTip": "C:\\Users\\chaco\\Documents\\Programacion Avanzada\\Proyecto\\Avance 3 git\\AP\\AP.Data\\App.Config",
-              "RelativeToolTip": "AP.Data\\App.Config",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2026-07-20T02:01:48.571Z",
-              "EditorCaption": ""
+              "Name": "ST:0:0:{a34b1c5d-6d37-4a0c-a8b0-99f8e8158b48}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\chaco\\Documents\\Programacion Avanzada\\Proyecto\\Avance 3 git\\AP\\AP.MVC\\Views\\Login\\Index.cshtml",
-              "RelativeDocumentMoniker": "AP.MVC\\Views\\Login\\Index.cshtml",
-              "ToolTip": "C:\\Users\\chaco\\Documents\\Programacion Avanzada\\Proyecto\\Avance 3 git\\AP\\AP.MVC\\Views\\Login\\Index.cshtml",
-              "RelativeToolTip": "AP.MVC\\Views\\Login\\Index.cshtml",
-              "ViewState": "AgIAACAAAAAAAAAAAAAAADYAAAAMAAAAAAAAAA==",
+              "Title": "Optimized.cshtml",
+              "DocumentMoniker": "D:\\Universidad Fidelitas\\Cuatri II - 2026\\Programaci\u00F3n Avanzada\\Proyecto\\ProgramacionAvanzadaG2\\AP\\AP.MVC\\Views\\Ranking\\Optimized.cshtml",
+              "RelativeDocumentMoniker": "AP.MVC\\Views\\Ranking\\Optimized.cshtml",
+              "ToolTip": "D:\\Universidad Fidelitas\\Cuatri II - 2026\\Programaci\u00F3n Avanzada\\Proyecto\\ProgramacionAvanzadaG2\\AP\\AP.MVC\\Views\\Ranking\\Optimized.cshtml",
+              "RelativeToolTip": "AP.MVC\\Views\\Ranking\\Optimized.cshtml",
+              "ViewState": "AgIAAG4AAAAAAAAAAAAAwIYAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-07-20T01:56:47.717Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Register.cshtml",
-              "DocumentMoniker": "C:\\Users\\chaco\\Documents\\Programacion Avanzada\\Proyecto\\Avance 3 git\\AP\\AP.MVC\\Views\\Login\\Register.cshtml",
-              "RelativeDocumentMoniker": "AP.MVC\\Views\\Login\\Register.cshtml",
-              "ToolTip": "C:\\Users\\chaco\\Documents\\Programacion Avanzada\\Proyecto\\Avance 3 git\\AP\\AP.MVC\\Views\\Login\\Register.cshtml",
-              "RelativeToolTip": "AP.MVC\\Views\\Login\\Register.cshtml",
-              "ViewState": "AgIAAFAAAAAAAAAAAAAiwG4AAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-07-20T01:55:43.202Z",
+              "WhenOpened": "2026-08-03T18:20:15.779Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "LoginController.cs",
-              "DocumentMoniker": "C:\\Users\\chaco\\Documents\\Programacion Avanzada\\Proyecto\\Avance 3 git\\AP\\AP.MVC\\Controllers\\LoginController.cs",
-              "RelativeDocumentMoniker": "AP.MVC\\Controllers\\LoginController.cs",
-              "ToolTip": "C:\\Users\\chaco\\Documents\\Programacion Avanzada\\Proyecto\\Avance 3 git\\AP\\AP.MVC\\Controllers\\LoginController.cs",
-              "RelativeToolTip": "AP.MVC\\Controllers\\LoginController.cs",
-              "ViewState": "AgIAAHsAAAAAAAAAAAAmwGMAAAATAAAAAAAAAA==",
+              "Title": "RankingOptimizedRepository.cs",
+              "DocumentMoniker": "D:\\Universidad Fidelitas\\Cuatri II - 2026\\Programaci\u00F3n Avanzada\\Proyecto\\ProgramacionAvanzadaG2\\AP\\AP.Data\\Repositories\\RankingOptimizedRepository.cs",
+              "RelativeDocumentMoniker": "AP.Data\\Repositories\\RankingOptimizedRepository.cs",
+              "ToolTip": "D:\\Universidad Fidelitas\\Cuatri II - 2026\\Programaci\u00F3n Avanzada\\Proyecto\\ProgramacionAvanzadaG2\\AP\\AP.Data\\Repositories\\RankingOptimizedRepository.cs",
+              "RelativeToolTip": "AP.Data\\Repositories\\RankingOptimizedRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-20T01:53:09.976Z",
+              "WhenOpened": "2026-08-03T18:15:32.981Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "UserService.cs",
-              "DocumentMoniker": "C:\\Users\\chaco\\Documents\\Programacion Avanzada\\Proyecto\\Avance 3 git\\AP\\AP.Core\\Services\\UserService.cs",
-              "RelativeDocumentMoniker": "AP.Core\\Services\\UserService.cs",
-              "ToolTip": "C:\\Users\\chaco\\Documents\\Programacion Avanzada\\Proyecto\\Avance 3 git\\AP\\AP.Core\\Services\\UserService.cs",
-              "RelativeToolTip": "AP.Core\\Services\\UserService.cs",
-              "ViewState": "AgIAACAAAAAAAAAAAAAIwCcAAAATAAAAAAAAAA==",
+              "DocumentIndex": 7,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "D:\\Universidad Fidelitas\\Cuatri II - 2026\\Programaci\u00F3n Avanzada\\Proyecto\\ProgramacionAvanzadaG2\\AP\\AP.Data\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "AP.Data\\Repositories\\UserRepository.cs",
+              "ToolTip": "D:\\Universidad Fidelitas\\Cuatri II - 2026\\Programaci\u00F3n Avanzada\\Proyecto\\ProgramacionAvanzadaG2\\AP\\AP.Data\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "AP.Data\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-20T01:52:10.943Z",
+              "WhenOpened": "2026-08-03T17:57:32.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Universidad Fidelitas\\Cuatri II - 2026\\Programaci\u00F3n Avanzada\\Proyecto\\ProgramacionAvanzadaG2\\AP\\AP.MVC\\Views\\Ranking\\Index.cshtml",
+              "RelativeDocumentMoniker": "AP.MVC\\Views\\Ranking\\Index.cshtml",
+              "ToolTip": "D:\\Universidad Fidelitas\\Cuatri II - 2026\\Programaci\u00F3n Avanzada\\Proyecto\\ProgramacionAvanzadaG2\\AP\\AP.MVC\\Views\\Ranking\\Index.cshtml",
+              "RelativeToolTip": "AP.MVC\\Views\\Ranking\\Index.cshtml",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAFYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-03T17:53:00.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Scores.cs",
+              "DocumentMoniker": "D:\\Universidad Fidelitas\\Cuatri II - 2026\\Programaci\u00F3n Avanzada\\Proyecto\\ProgramacionAvanzadaG2\\AP\\AP.Data\\Scores.cs",
+              "RelativeDocumentMoniker": "AP.Data\\Scores.cs",
+              "ToolTip": "D:\\Universidad Fidelitas\\Cuatri II - 2026\\Programaci\u00F3n Avanzada\\Proyecto\\ProgramacionAvanzadaG2\\AP\\AP.Data\\Scores.cs",
+              "RelativeToolTip": "AP.Data\\Scores.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-03T17:45:10.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RankingRepository.cs",
+              "DocumentMoniker": "D:\\Universidad Fidelitas\\Cuatri II - 2026\\Programaci\u00F3n Avanzada\\Proyecto\\ProgramacionAvanzadaG2\\AP\\AP.Data\\Repositories\\RankingRepository.cs",
+              "RelativeDocumentMoniker": "AP.Data\\Repositories\\RankingRepository.cs",
+              "ToolTip": "D:\\Universidad Fidelitas\\Cuatri II - 2026\\Programaci\u00F3n Avanzada\\Proyecto\\ProgramacionAvanzadaG2\\AP\\AP.Data\\Repositories\\RankingRepository.cs",
+              "RelativeToolTip": "AP.Data\\Repositories\\RankingRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-03T17:44:08.614Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "UserRepository.cs",
-              "DocumentMoniker": "C:\\Users\\chaco\\Documents\\Programacion Avanzada\\Proyecto\\Avance 3 git\\AP\\AP.Data\\Repositories\\UserRepository.cs",
-              "RelativeDocumentMoniker": "AP.Data\\Repositories\\UserRepository.cs",
-              "ToolTip": "C:\\Users\\chaco\\Documents\\Programacion Avanzada\\Proyecto\\Avance 3 git\\AP\\AP.Data\\Repositories\\UserRepository.cs",
-              "RelativeToolTip": "AP.Data\\Repositories\\UserRepository.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAwBsAAAAlAAAAAAAAAA==",
+              "Title": "RankingController.cs",
+              "DocumentMoniker": "D:\\Universidad Fidelitas\\Cuatri II - 2026\\Programaci\u00F3n Avanzada\\Proyecto\\ProgramacionAvanzadaG2\\AP\\AP.MVC\\Controllers\\RankingController.cs",
+              "RelativeDocumentMoniker": "AP.MVC\\Controllers\\RankingController.cs",
+              "ToolTip": "D:\\Universidad Fidelitas\\Cuatri II - 2026\\Programaci\u00F3n Avanzada\\Proyecto\\ProgramacionAvanzadaG2\\AP\\AP.MVC\\Controllers\\RankingController.cs",
+              "RelativeToolTip": "AP.MVC\\Controllers\\RankingController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-20T01:47:19.072Z",
+              "WhenOpened": "2026-08-03T17:41:41.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RankingViewModel.cs",
+              "DocumentMoniker": "D:\\Universidad Fidelitas\\Cuatri II - 2026\\Programaci\u00F3n Avanzada\\Proyecto\\ProgramacionAvanzadaG2\\AP\\AP.Models\\Entities\\RankingViewModel.cs",
+              "RelativeDocumentMoniker": "AP.Models\\Entities\\RankingViewModel.cs",
+              "ToolTip": "D:\\Universidad Fidelitas\\Cuatri II - 2026\\Programaci\u00F3n Avanzada\\Proyecto\\ProgramacionAvanzadaG2\\AP\\AP.Models\\Entities\\RankingViewModel.cs",
+              "RelativeToolTip": "AP.Models\\Entities\\RankingViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-03T18:17:17.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Puzzle.cs",
+              "DocumentMoniker": "D:\\Universidad Fidelitas\\Cuatri II - 2026\\Programaci\u00F3n Avanzada\\Proyecto\\ProgramacionAvanzadaG2\\AP\\AP.Models\\Entities\\Puzzle.cs",
+              "RelativeDocumentMoniker": "AP.Models\\Entities\\Puzzle.cs",
+              "ToolTip": "D:\\Universidad Fidelitas\\Cuatri II - 2026\\Programaci\u00F3n Avanzada\\Proyecto\\ProgramacionAvanzadaG2\\AP\\AP.Models\\Entities\\Puzzle.cs",
+              "RelativeToolTip": "AP.Models\\Entities\\Puzzle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-03T17:21:23.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Users.cs",
+              "DocumentMoniker": "D:\\Universidad Fidelitas\\Cuatri II - 2026\\Programaci\u00F3n Avanzada\\Proyecto\\ProgramacionAvanzadaG2\\AP\\AP.Data\\Users.cs",
+              "RelativeDocumentMoniker": "AP.Data\\Users.cs",
+              "ToolTip": "D:\\Universidad Fidelitas\\Cuatri II - 2026\\Programaci\u00F3n Avanzada\\Proyecto\\ProgramacionAvanzadaG2\\AP\\AP.Data\\Users.cs",
+              "RelativeToolTip": "AP.Data\\Users.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-03T17:39:48.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MathPuzzleModel.Context.cs",
+              "DocumentMoniker": "D:\\Universidad Fidelitas\\Cuatri II - 2026\\Programaci\u00F3n Avanzada\\Proyecto\\ProgramacionAvanzadaG2\\AP\\AP.Data\\MathPuzzleModel.Context.cs",
+              "RelativeDocumentMoniker": "AP.Data\\MathPuzzleModel.Context.cs",
+              "ToolTip": "D:\\Universidad Fidelitas\\Cuatri II - 2026\\Programaci\u00F3n Avanzada\\Proyecto\\ProgramacionAvanzadaG2\\AP\\AP.Data\\MathPuzzleModel.Context.cs",
+              "RelativeToolTip": "AP.Data\\MathPuzzleModel.Context.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-03T17:38:33.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MathPuzzleModel.edmx.diagram",
+              "DocumentMoniker": "D:\\Universidad Fidelitas\\Cuatri II - 2026\\Programaci\u00F3n Avanzada\\Proyecto\\ProgramacionAvanzadaG2\\AP\\AP.Data\\MathPuzzleModel.edmx.diagram",
+              "RelativeDocumentMoniker": "AP.Data\\MathPuzzleModel.edmx.diagram",
+              "ToolTip": "D:\\Universidad Fidelitas\\Cuatri II - 2026\\Programaci\u00F3n Avanzada\\Proyecto\\ProgramacionAvanzadaG2\\AP\\AP.Data\\MathPuzzleModel.edmx.diagram",
+              "RelativeToolTip": "AP.Data\\MathPuzzleModel.edmx.diagram",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-08-03T17:38:25.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MathPuzzleModel.Designer.cs",
+              "DocumentMoniker": "D:\\Universidad Fidelitas\\Cuatri II - 2026\\Programaci\u00F3n Avanzada\\Proyecto\\ProgramacionAvanzadaG2\\AP\\AP.Data\\MathPuzzleModel.Designer.cs",
+              "RelativeDocumentMoniker": "AP.Data\\MathPuzzleModel.Designer.cs",
+              "ToolTip": "D:\\Universidad Fidelitas\\Cuatri II - 2026\\Programaci\u00F3n Avanzada\\Proyecto\\ProgramacionAvanzadaG2\\AP\\AP.Data\\MathPuzzleModel.Designer.cs",
+              "RelativeToolTip": "AP.Data\\MathPuzzleModel.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-03T17:38:24.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MathPuzzleModel.Context.tt",
+              "DocumentMoniker": "D:\\Universidad Fidelitas\\Cuatri II - 2026\\Programaci\u00F3n Avanzada\\Proyecto\\ProgramacionAvanzadaG2\\AP\\AP.Data\\MathPuzzleModel.Context.tt",
+              "RelativeDocumentMoniker": "AP.Data\\MathPuzzleModel.Context.tt",
+              "ToolTip": "D:\\Universidad Fidelitas\\Cuatri II - 2026\\Programaci\u00F3n Avanzada\\Proyecto\\ProgramacionAvanzadaG2\\AP\\AP.Data\\MathPuzzleModel.Context.tt",
+              "RelativeToolTip": "AP.Data\\MathPuzzleModel.Context.tt",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAjwEUAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-08-03T17:38:08.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Universidad Fidelitas\\Cuatri II - 2026\\Programaci\u00F3n Avanzada\\Proyecto\\ProgramacionAvanzadaG2\\AP\\AP.Models\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "AP.Models\\Entities\\User.cs",
+              "ToolTip": "D:\\Universidad Fidelitas\\Cuatri II - 2026\\Programaci\u00F3n Avanzada\\Proyecto\\ProgramacionAvanzadaG2\\AP\\AP.Models\\Entities\\User.cs",
+              "RelativeToolTip": "AP.Models\\Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-03T17:21:25.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "GameState.cs",
+              "DocumentMoniker": "D:\\Universidad Fidelitas\\Cuatri II - 2026\\Programaci\u00F3n Avanzada\\Proyecto\\ProgramacionAvanzadaG2\\AP\\AP.Models\\Entities\\GameState.cs",
+              "RelativeDocumentMoniker": "AP.Models\\Entities\\GameState.cs",
+              "ToolTip": "D:\\Universidad Fidelitas\\Cuatri II - 2026\\Programaci\u00F3n Avanzada\\Proyecto\\ProgramacionAvanzadaG2\\AP\\AP.Models\\Entities\\GameState.cs",
+              "RelativeToolTip": "AP.Models\\Entities\\GameState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-03T17:21:16.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "202608031707379_InitialCreate.cs",
+              "DocumentMoniker": "D:\\Universidad Fidelitas\\Cuatri II - 2026\\Programaci\u00F3n Avanzada\\Proyecto\\ProgramacionAvanzadaG2\\AP\\MigrationDemo\\Migrations\\202608031707379_InitialCreate.cs",
+              "RelativeDocumentMoniker": "MigrationDemo\\Migrations\\202608031707379_InitialCreate.cs",
+              "ToolTip": "D:\\Universidad Fidelitas\\Cuatri II - 2026\\Programaci\u00F3n Avanzada\\Proyecto\\ProgramacionAvanzadaG2\\AP\\MigrationDemo\\Migrations\\202608031707379_InitialCreate.cs",
+              "RelativeToolTip": "MigrationDemo\\Migrations\\202608031707379_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-03T17:07:39.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Configuration.cs",
+              "DocumentMoniker": "D:\\Universidad Fidelitas\\Cuatri II - 2026\\Programaci\u00F3n Avanzada\\Proyecto\\ProgramacionAvanzadaG2\\AP\\MigrationDemo\\Migrations\\Configuration.cs",
+              "RelativeDocumentMoniker": "MigrationDemo\\Migrations\\Configuration.cs",
+              "ToolTip": "D:\\Universidad Fidelitas\\Cuatri II - 2026\\Programaci\u00F3n Avanzada\\Proyecto\\ProgramacionAvanzadaG2\\AP\\MigrationDemo\\Migrations\\Configuration.cs",
+              "RelativeToolTip": "MigrationDemo\\Migrations\\Configuration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-03T17:07:08.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "App.config",
+              "DocumentMoniker": "D:\\Universidad Fidelitas\\Cuatri II - 2026\\Programaci\u00F3n Avanzada\\Proyecto\\ProgramacionAvanzadaG2\\AP\\MigrationDemo\\App.config",
+              "RelativeDocumentMoniker": "MigrationDemo\\App.config",
+              "ToolTip": "D:\\Universidad Fidelitas\\Cuatri II - 2026\\Programaci\u00F3n Avanzada\\Proyecto\\ProgramacionAvanzadaG2\\AP\\MigrationDemo\\App.config",
+              "RelativeToolTip": "MigrationDemo\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-08-03T17:05:17.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\Universidad Fidelitas\\Cuatri II - 2026\\Programaci\u00F3n Avanzada\\Proyecto\\ProgramacionAvanzadaG2\\AP\\MigrationDemo\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "MigrationDemo\\Data\\AppDbContext.cs",
+              "ToolTip": "D:\\Universidad Fidelitas\\Cuatri II - 2026\\Programaci\u00F3n Avanzada\\Proyecto\\ProgramacionAvanzadaG2\\AP\\MigrationDemo\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "MigrationDemo\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-03T17:05:01.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "D:\\Universidad Fidelitas\\Cuatri II - 2026\\Programaci\u00F3n Avanzada\\Proyecto\\ProgramacionAvanzadaG2\\AP\\MigrationDemo\\Models\\Cliente.cs",
+              "RelativeDocumentMoniker": "MigrationDemo\\Models\\Cliente.cs",
+              "ToolTip": "D:\\Universidad Fidelitas\\Cuatri II - 2026\\Programaci\u00F3n Avanzada\\Proyecto\\ProgramacionAvanzadaG2\\AP\\MigrationDemo\\Models\\Cliente.cs",
+              "RelativeToolTip": "MigrationDemo\\Models\\Cliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-03T17:03:47.948Z",
               "EditorCaption": ""
             }
           ]

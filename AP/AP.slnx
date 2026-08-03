@@ -3,4 +3,5 @@
   <Project Path="AP.Data/AP.Data.csproj" Id="ac370d75-f352-4060-b257-b89543773db2" />
   <Project Path="AP.Models/AP.Models.csproj" Id="86e4843a-7d94-46d5-bf41-df70e36631b5" />
   <Project Path="AP.MVC/AP.MVC.csproj" Id="23ce401d-c927-400e-9d7f-2a016cb57fa7" />
+  <Project Path="MigrationDemo/MigrationDemo.csproj" Id="ba7d41b4-e7fa-48d5-bf26-a668c817b5d8" />
 </Solution>
