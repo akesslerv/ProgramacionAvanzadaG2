@@ -20,6 +20,6 @@ namespace AP.Core.Interfaces
 
         void Delete(int id);
 
-        GameQuestion GenerateQuestion();   // <- Esta línea debe existir
+        GameQuestion GenerateQuestion();   
     }
 }
