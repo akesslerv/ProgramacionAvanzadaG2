@@ -77,26 +77,34 @@
 
                     <li>
                         @Html.ActionLink("🏠 Inicio",
-                             "Index",
-                             "Home",
-                             null,
-                             new { @class = "nav-link" })
+                                      "Index",
+                                      "Home",
+                                      null,
+                                      new { @class = "nav-link" })
                     </li>
 
                     <li>
-                        @Html.ActionLink("🧩 Acertijos",
-                             "Index",
-                             "Puzzle",
-                             null,
-                             new { @class = "nav-link" })
+                        @Html.ActionLink("🏆 Ranking",
+                                      "Index",
+                                      "Ranking",
+                                      null,
+                                      new { @class = "nav-link" })
                     </li>
 
                     <li>
-                        <a class="nav-link" href="#">🏆 Ranking</a>
+                        @Html.ActionLink("👤 Perfil",
+                                      "Index",
+                                      "Profile",
+                                      null,
+                                      new { @class = "nav-link" })
                     </li>
 
                     <li>
-                        <a class="nav-link" href="#">👤 Perfil</a>
+                        @Html.ActionLink("🚪 Cerrar sesión",
+                                      "Logout",
+                                      "Login",
+                                      null,
+                                      new { @class = "nav-link" })
                     </li>
 
                 </ul>
