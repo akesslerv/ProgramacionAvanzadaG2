@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace AP.Models.Entities
 {
+    //SOLID: SRP -  preguntas
     public class GameQuestion
     {
         public string Question { get; set; }

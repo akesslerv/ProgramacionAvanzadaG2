@@ -9,6 +9,8 @@ using AP.Models.Entities;
 
 namespace AP.Core.Services
 {
+    //SOLID: SRP - logica de puzzle
+    //DP: Service Layer
     public class PuzzleService : IPuzzleService
     {
         private readonly IPuzzleRepository repository;

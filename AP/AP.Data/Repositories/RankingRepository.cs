@@ -7,6 +7,8 @@ using System.Threading.Tasks;
 
 namespace AP.Data.Repositories
 {
+    //SOLID: SRP - acceso al ranking
+    //DP: Repository pattern
     public class RankingRepository
     {
         private readonly MathPuzzleEntities db = new MathPuzzleEntities();

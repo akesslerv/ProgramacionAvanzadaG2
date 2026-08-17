@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace AP.Models.Entities
 {
+    //SOLID: SRP - datos del juego
     public class GameState
     {
         public GameQuestion CurrentQuestion { get; set; }

@@ -7,6 +7,8 @@ using AP.Models.Entities;
 
 namespace AP.Data.Repositories
 {
+    //SOLID: SRP - acceso a puzzles
+    //DP: Repository pattern
     public class PuzzleRepository : IPuzzleRepository
     {
         private static List<Puzzle> puzzles = new List<Puzzle>()

@@ -7,6 +7,8 @@ using AP.Models.Entities;
 
 namespace AP.Data.Repositories
 {
+    //SOLID: ISP - contrato especifico
+    //DP: Repository Pattern
     public interface IPuzzleRepository
     {
         List<Puzzle> GetAll();

@@ -2,6 +2,8 @@
 
 namespace AP.MVC.Models
 {
+    //SOLID: SRP - datos del formulario
+    //DP: MVC - viewModel
     public class LoginViewModel
     {
         [Required(ErrorMessage = "El usuario es obligatorio")]

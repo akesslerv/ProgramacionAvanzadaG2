@@ -4,6 +4,8 @@ using AP.MVC.Services;
 
 namespace AP.MVC.Controllers
 {
+    //SOLID: SRP - controla autenticacion
+    //DP: MVC - controller
     public class LoginController : Controller
     {
         private readonly UserService _userService = new UserService();

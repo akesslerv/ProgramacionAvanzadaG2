@@ -5,6 +5,8 @@ using System.Web;
 
 namespace AP.MVC.Models
 {
+    //SOLID: SRP - datos del perfil
+    //DP: MVC - viewModel
     public class ProfileViewModel
     {
         public string Name { get; set; }

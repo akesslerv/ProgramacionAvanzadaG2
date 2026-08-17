@@ -5,6 +5,8 @@ using System.Linq;
 
 namespace AP.Data.Repositories
 {
+    //SOLID: SRP - acceso a usuario
+    //DP: Repository pattern
     public class UserRepository
     {
         private readonly MathPuzzleEntities db = new MathPuzzleEntities();

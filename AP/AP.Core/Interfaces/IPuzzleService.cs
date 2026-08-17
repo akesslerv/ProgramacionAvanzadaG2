@@ -7,6 +7,7 @@ using AP.Models.Entities;
 
 namespace AP.Core.Interfaces
 {
+    //SOLID: ISP - Acciones
     public interface IPuzzleService
     {
         List<Puzzle> GetAll();

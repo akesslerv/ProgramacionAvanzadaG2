@@ -8,6 +8,8 @@ using AP.Data.Repositories;
 
 namespace AP.MVC.Controllers
 {
+    //SOLID: SRP - controla el ranking
+    //DP: MVC - controller
     public class RankingController : Controller
     {
         private readonly RankingRepository repository;

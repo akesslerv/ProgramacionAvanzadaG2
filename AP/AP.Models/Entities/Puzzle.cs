@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace AP.Models.Entities
 {
+    //SOLID; SRP - informacion del puzzle
     public class Puzzle
     {
         public int Id { get; set; }

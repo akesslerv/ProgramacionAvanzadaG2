@@ -4,6 +4,8 @@ using System;
 
 namespace AP.MVC.Services
 {
+    //SOLID: SRP - logica de usuarios
+    //DP: Service layer
     public class UserService
     {
         private readonly UserRepository _repo;

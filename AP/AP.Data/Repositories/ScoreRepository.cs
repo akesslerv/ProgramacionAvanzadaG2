@@ -3,6 +3,8 @@ using AP.Models.Entities;
 
 namespace AP.Data.Repositories
 {
+    //SOLID: SRP - acceso a puntuaciones
+    //DP: Repository pattern
     public class ScoreRepository
     {
         private readonly MathPuzzleEntities db = new MathPuzzleEntities();

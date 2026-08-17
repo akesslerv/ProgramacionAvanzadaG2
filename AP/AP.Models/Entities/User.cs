@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace AP.Models.Entities
 {
+    //SOLID: SRP - informacion de usuario
     public class User
     {
         public int Id { get; set; }

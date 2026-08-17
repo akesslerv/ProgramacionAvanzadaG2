@@ -8,6 +8,8 @@ using System.Web.Mvc;
 
 namespace AP.MVC.Controllers
 {
+    //SOLID: SRP - solicited de puzzles
+    //DP: MVC - controller
     public class PuzzleController : Controller
     {
         private readonly IPuzzleService service;

@@ -6,6 +6,8 @@ using AP.Data.Repositories;
 
 namespace AP.MVC.Controllers
 {
+    //SOLID: SRP - flujo del juego
+    //DP: MVC - controller
     public class GameController : Controller
     {
         private readonly IPuzzleService service;
